@@ -1,0 +1,54 @@
+GTDBLVMSYB3U:/opt/c430/000/bin >crontab /opt/c430/000/crontabs/c4300001.cron
+GTDBLVMSYB3U:/opt/c430/000/bin >crontab -l
+00 23 * * * /opt/c430/000/bin/depuraC430_000.sh
+03 * * * * /opt/c430/000/bin/estatus_c430.sh
+GTDBLVMSYB3U:/opt/c430/000/bin >id
+uid=2000032605(c4300001) gid=2000049952(c430000) groups=2000049952(c430000),3881(c046)
+
+GTDBLVMSYB3U:/opt/c430/000/bin/ibm/envio/crontabs >crontab /opt/c430/000/crontabs/c4300002.cron
+GTDBLVMSYB3U:/opt/c430/000/bin/ibm/envio/crontabs >crontab -l
+00 23 * * 1-5 /opt/c430/000/bin/ibm/envio/crontabs/generaALFA.sh DIARIO
+GTDBLVMSYB3U:/opt/c430/000/bin/ibm/envio/crontabs >id
+uid=2000035195(c4300002) gid=2000049952(c430000) groups=2000049952(c430000),3881(c046)
+
+GTDBLVMSYB3U:/opt/c430/000/bin/inte/envio/crontabs >crontab /opt/c430/000/crontabs/c4300003.cron
+GTDBLVMSYB3U:/opt/c430/000/bin/inte/envio/crontabs >crontab -l
+05,10,40,55 * * * * /opt/c430/000/bin/inte/envio/crontabs/C430EjReC.sh
+15 * * * * /opt/c430/000/bin/inte/envio/crontabs/C430EjReD.sh
+GTDBLVMSYB3U:/opt/c430/000/bin/inte/envio/crontabs >id
+uid=2000035196(c4300003) gid=2000049952(c430000) groups=2000049952(c430000),3881(c046)
+
+GTDBLVMSYB3U:/opt/c430/000/bin/s011/envio/crontabs >crontab /opt/c430/000/crontabs/c4300004.cron
+GTDBLVMSYB3U:/opt/c430/000/bin/s011/envio/crontabs >crontab -l
+00,20,40 * * * * /opt/c430/000/bin/s011/envio/crontabs/masterc430.sh
+GTDBLVMSYB3U:/opt/c430/000/bin/s011/envio/crontabs >id
+uid=2000035197(c4300004) gid=2000049952(c430000) groups=2000049952(c430000),3881(c046)
+
+GTDBLVMSYB3U:/opt/c430/000/bin/s011/recepcion/crontabs >crontab /opt/c430/000/crontabs/c4300005.cron
+GTDBLVMSYB3U:/opt/c430/000/bin/s011/recepcion/crontabs >crontab -l
+# CRON PARA PROCESAR LA RESPUESTA AUTOMATICA DE MASTER CARD DEL CDF
+* * * * * /opt/c430/000/bin/s011/recepcion/crontabs/ejecutaRespCDF.sh  
+GTDBLVMSYB3U:/opt/c430/000/bin/s011/recepcion/crontabs >id
+uid=2000035198(c4300005) gid=2000049952(c430000) groups=2000049952(c430000),3881(c046)
+
+GTDBLVMSYB3U:/opt/c430/000/bin/s111/envio/crontabs >crontab /opt/c430/000/crontabs/c4300006.cron
+GTDBLVMSYB3U:/opt/c430/000/bin/s111/envio/crontabs >crontab -l
+00 20 15,28 * * /opt/c430/000/bin/s111/envio/crontabs/ejecEMPyEJE.sh 
+GTDBLVMSYB3U:/opt/c430/000/bin/s111/envio/crontabs >id
+uid=2000035199(c4300006) gid=2000049952(c430000) groups=2000049952(c430000),3881(c046)
+
+GTDBLVMSYB3U:/opt/c430/000/bin/s111/recepcion/crontabs >crontab /opt/c430/000/crontabs/c4300007.cron
+GTDBLVMSYB3U:/opt/c430/000/bin/s111/recepcion/crontabs >crontab -l
+* * * * * /opt/c430/000/bin/s111/recepcion/crontabs/ejecutaBCP.sh 
+30 22 * * * /opt/c430/000/bin/s111/recepcion/crontabs/borraArchs.sh 
+GTDBLVMSYB3U:/opt/c430/000/bin/s111/recepcion/crontabs >id
+uid=2000035200(c4300007) gid=2000049952(c430000) groups=2000049952(c430000),3881(c046)
+
+GTDBLVMSYB3U:/opt/c430/000/bin/s702/envio/crontabs >crontab /opt/c430/000/crontabs/c4300008.cron
+GTDBLVMSYB3U:/opt/c430/000/bin/s702/envio/crontabs >crontab -l
+00,15,30,45 * * * * /opt/c430/000/bin/s702/envio/crontabs/ejecutaCCF.sh 
+00,15,30,45 * * * * /opt/c430/000/bin/s702/envio/crontabs/C430MonitorCCF.sh 
+00,15,30,45 * * * * /opt/c430/000/bin/s702/envio/crontabs/C430RecepCCF.sh 
+GTDBLVMSYB3U:/opt/c430/000/bin/s702/envio/crontabs >id
+uid=2000035201(c4300008) gid=2000049952(c430000) groups=2000049952(c430000),3881(c046)
+

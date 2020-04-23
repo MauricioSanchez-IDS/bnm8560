@@ -1,0 +1,549 @@
+vm-2d9b-6102:/opt/c430/000/bin/Compiladores/Compilaciones Actuales >ll -R
+.:
+total 32
+drwxr-xr-x 8 c4300001 c430000 4096 Sep 30  2015 .
+drwxr-xr-x 3 c4300001 c430000 4096 Sep 30  2015 ..
+drwxr-xr-x 3 c4300001 c430000 4096 Oct 25 16:01 c4300001
+drwxr-xr-x 2 c4300001 c430000 4096 Sep 14 17:47 c4300002
+drwxr-xr-x 6 c4300001 c430000 4096 Feb 26  2015 c4300003
+drwxr-xr-x 4 c4300001 c430000 4096 Sep 23  2014 c4300004
+drwxr-xr-x 2 c4300001 c430000 4096 Sep 17 15:02 c4300005
+drwxr-xr-x 2 c4300001 c430000 4096 Oct  2 21:10 c4300008
+
+./c4300001:
+total 308
+drwxr-xr-x 3 c4300001 c430000   4096 Oct 25 16:01 .
+drwxr-xr-x 8 c4300001 c430000   4096 Sep 30  2015 ..
+-rw-r--r-- 1 c4300001 c430000   1327 Mar  1  2015 makesapuf
+-rwsrwsrwt 1 ap39526  c430000    159 Jan 26  2015 .profile
+-rwxrwx--- 1 c4300001 c430000  31357 Oct 23 19:58 sapuf
+-rwxrwx--- 1 c4300001 c430000  30981 Mar  2  2015 sapufant
+-rw-r--r-- 1 c4300001 c430000   5617 Mar  2  2015 sapufant.c
+-rw-rw---- 1 c4300001 c430000  40920 Mar  2  2015 sapufant.o
+-rw-r----- 1 c4300001 c430000   5905 Oct 23 19:58 sapuf.c
+-rw-r--r-- 1 c4300001 c430000    379 Jan 26  2015 SAPUF_Enlace.h
+-rw-rw---- 1 c4300001 c430000  41176 Oct 23 19:58 sapuf.o
+-rw-r--r-- 1 c4300001 c430000   1071 Mar  1  2015 sybdbex.h
+-rw-rw---- 1 c4300001 c430000 107696 Oct 23 19:58 sybesql.o
+drwxrwx--- 2 c4300001 c430000   4096 Mar  7  2015 temp
+-rw-r--r-- 1 c4300001 c430000    253 Jan 26  2015 tipos.h
+
+./c4300001/temp:
+total 224
+drwxrwx--- 2 c4300001 c430000   4096 Mar  7  2015 .
+drwxr-xr-x 3 c4300001 c430000   4096 Oct 25 16:01 ..
+-rw-r----- 1 c4300001 c430000   1327 Mar  1  2015 makesapuf
+-rwxrwx--- 1 c4300001 c430000  32838 Mar  7  2015 sapuf
+-rw-r----- 1 c4300001 c430000   6489 Mar  7  2015 sapuf.c
+-rw-r----- 1 c4300001 c430000    379 Mar  1  2015 SAPUF_Enlace.h
+-rw-rw---- 1 c4300001 c430000  42888 Mar  7  2015 sapuf.o
+-rw-r----- 1 c4300001 c430000   1071 Mar  1  2015 sybdbex.h
+-rw-rw---- 1 c4300001 c430000 107600 Mar  7  2015 sybesql.o
+-rw-r----- 1 c4300001 c430000    253 Mar  1  2015 tipos.h
+
+./c4300002:
+total 332
+drwxr-xr-x 2 c4300001 c430000  4096 Sep 14 17:47 .
+drwxr-xr-x 8 c4300001 c430000  4096 Sep 30  2015 ..
+-rwxrwx--- 1 c4300001 c430000 42445 Sep 14 17:47 creaALFA
+-rwxrwx--- 1 c4300001 c430000 42341 Mar 17  2015 creaALFAant
+-rw-r--r-- 1 c4300001 c430000 52756 Jun  8  2015 creaALFAant.c
+-rw-r----- 1 c4300001 c430000 53883 Sep 14 17:46 creaALFA.c
+-rw-r--r-- 1 c4300001 c430000 52448 Jan 26  2015 creaALFA.c_old
+-rwxrwx--- 1 c4300001 c430000 42381 Jun  1  2015 creaALFA_Jun1_2015
+-rw-r--r-- 1 c4300001 c430000 16027 Jun  8  2015 libsbf.h
+-rwxr-xr-x 1 c4300001 c430000   704 Feb 26  2015 makeALFA
+
+./c4300003:
+total 24
+drwxr-xr-x 6 c4300001 c430000 4096 Feb 26  2015 .
+drwxr-xr-x 8 c4300001 c430000 4096 Sep 30  2015 ..
+drwxr-xr-x 2 c4300001 c430000 4096 Sep 14 17:58 addRetLinea
+drwxr-xr-x 4 c4300001 c430000 4096 Sep 14 18:06 C430Reps
+drwxr-xr-x 2 c4300001 c430000 4096 Sep 14 18:12 creaDerSBF y repGen
+drwxr-xr-x 2 c4300001 c430000 4096 Sep 14 18:29 Intelar y depuraReps
+
+./c4300003/addRetLinea:
+total 232
+drwxr-xr-x 2 c4300001 c430000  4096 Sep 14 17:58 .
+drwxr-xr-x 6 c4300001 c430000  4096 Feb 26  2015 ..
+-rwxrwx--- 1 c4300001 c430000 76736 Sep 14 17:58 addRetLinea
+-rwxrwx--- 1 c4300001 c430000 76544 Jun 23  2015 addRetLineaAnt
+-rw-r--r-- 1 c4300001 c430000 22046 Aug  5  2016 addRetLineaant.c
+-rw-r----- 1 c4300001 c430000 22859 Sep 14 17:55 addRetLinea.c
+-rw-r--r-- 1 c4300001 c430000  9396 Jan 26  2015 addRetLinea.h
+-rw-r--r-- 1 c4300001 c430000   630 Jun 23  2015 makeAddRet
+
+./c4300003/C430Reps:
+total 3324
+drwxr-xr-x 4 c4300001 c430000    4096 Sep 14 18:06 .
+drwxr-xr-x 6 c4300001 c430000    4096 Feb 26  2015 ..
+-rw-r--r-- 1 c4300001 c430000   13664 Feb 26  2015 arboluni.h
+-rwxrwx--- 1 c4300001 c430000   97370 Sep 14 18:06 C430Reps
+-rwxrwx--- 1 c4300001 c430000   49482 Jun 24  2015 C430Repsaa
+-rwxrwx--- 1 c4300001 c430000   93986 Nov 24  2015 C430Repsant
+-rw-r--r-- 1 c4300001 c430000   11999 Jun 22  2015 C430RepsAnt.c
+-rw-r----- 1 c4300001 c430000   12144 Sep 14 15:17 C430Reps.c
+-rw-rw---- 1 c4300001 c430000  116024 Sep 14 18:06 C430Reps.o
+-rw-r--r-- 1 c4300001 c430000   23834 Feb 26  2015 clienta.c
+-rw-r--r-- 1 c4300001 c430000   22823 Feb 26  2015 clientant.c
+-rwxr-x--- 1 c4300001 c430000    2700 Jun 18  2015 compreps
+-rw-r--r-- 1 c4300001 c430000    2260 Jun 10  2015 conexionant.h
+-rw-r----- 1 c4300001 c430000    2308 Sep 14 18:02 conexion.h
+-rw-rw---- 1 c4300001 c430000     223 Jun 15  2015 file_c.tmp
+-rw-r--r-- 1 c4300001 c430000   13931 Feb 26  2015 formateo.h
+-rw-r--r-- 1 c4300001 c430000    5513 Sep 14 15:18 lib_rep.h
+-rw-rw---- 1 c4300001 c430000   39248 Jun 18  2015 lib_rep.o
+-rw-r--r-- 1 c4300001 c430000   16170 Feb 27  2015 libsbf.h
+-rwxrwx--- 1 c4300001 c430000     871 Nov 24  2015 make.new
+-rwxrwx--- 1 c4300001 c430000    1524 Jun 18  2015 make.r
+-rw-r--r-- 1 c4300001 c430000    5906 Feb 26  2015 rep13.c
+-rw-rw---- 1 c4300001 c430000    8328 Jun 18  2015 rep13.o
+-rw-r--r-- 1 c4300001 c430000    9625 Jun 10  2015 rep14.c
+-rw-rw---- 1 c4300001 c430000   14632 Jun 18  2015 rep14.o
+-rw-r--r-- 1 c4300001 c430000   10242 Feb 26  2015 rep16.c
+-rw-rw---- 1 c4300001 c430000   16008 Jun 18  2015 rep16.o
+-rw-r--r-- 1 c4300001 c430000   17964 Feb 26  2015 rep18.c
+-rw-rw---- 1 c4300001 c430000   28352 Jun 18  2015 rep18.o
+-rw-r--r-- 1 c4300001 c430000   18317 Feb 26  2015 rep20.c
+-rw-rw---- 1 c4300001 c430000   28416 Jun 18  2015 rep20.o
+-rw-r--r-- 1 c4300001 c430000   10567 Feb 26  2015 rep22.c
+-rw-rw---- 1 c4300001 c430000   11872 Jun 18  2015 rep22.o
+-rw-r--r-- 1 c4300001 c430000   17915 Feb 26  2015 rep24.c
+-rw-rw---- 1 c4300001 c430000   27384 Jun 18  2015 rep24.o
+-rw-r--r-- 1 c4300001 c430000   14509 Feb 26  2015 rep26.c
+-rw-rw---- 1 c4300001 c430000   22512 Jun 18  2015 rep26.o
+-rw-r--r-- 1 c4300001 c430000     128 Feb 26  2015 reportes.h
+-rw-r--r-- 1 c4300001 c430000    6165 Jun 24  2015 repsAnt.c
+-rw-r----- 1 c4300001 c430000    6531 Nov 24  2015 reps.c
+drwxr-x--- 3 c4300001 c430000    4096 Mar 13  2013 RepsHux1123
+-rw-r----- 1 c4300001 c430000 2375680 Jun 18  2015 RepsHux1123.tar
+-rw-rw---- 1 c4300001 c430000   42800 Sep 14 18:06 reps.o
+-rw-r----- 1 c4300001 c430000   12006 Sep 12 19:19 risqldbant.h
+-rw-r--r-- 1 c4300001 c430000   11932 Sep 14 18:06 risqldb.h
+-rw-r--r-- 1 c4300001 c430000   20480 Sep 14 18:03 .risqldb.h.swp
+-rw-rw---- 1 c4300001 c430000     718 Jun 18  2015 sal.txt
+-rw-r--r-- 1 c4300001 c430000   12748 Feb 26  2015 server.c
+drwxrwx--- 2 c4300001 c430000    4096 Apr 12  2016 Stores
+-rw-r--r-- 1 c4300001 c430000    2611 Feb 26  2015 varrep.h
+-rw-r--r-- 1 c4300001 c430000    3022 Feb 26  2015 volcad.h
+
+./c4300003/C430Reps/RepsHux1123:
+total 2020
+drwxr-x--- 3 c4300001 c430000   4096 Mar 13  2013 .
+drwxr-xr-x 4 c4300001 c430000   4096 Sep 14 18:06 ..
+-rw-r----- 1 c4300001 c430000 158840 Mar 12  2013 a.out
+-rwxr-x--- 1 c4300001 c430000  13664 Mar 13  2013 arboluni.h
+-rwxr-x--- 1 c4300001 c430000  13656 Mar 13  2013 arboluni.h-resp
+-rwx------ 1 c4300001 c430000  32175 Mar  8  2013 C430RepCred.c
+-rw-r----- 1 c4300001 c430000  72704 Mar  8  2013 C430RepCred.o
+-rwxr-x--- 1 c4300001 c430000 334480 Mar 13  2013 C430Reps
+-rwxr-x--- 1 c4300001 c430000  85016 Mar  8  2013 C430Reps-1
+-rw-r----- 1 c4300001 c430000  79144 Mar  8  2013 C430Reps-1.o
+-rw-r----- 1 c4300001 c430000  10607 Mar 12  2013 C430Repsa.c
+-rw------- 1 c4300001 c430000  11622 Mar 13  2013 C430Reps.c
+-rw------- 1 c4300001 c430000  11455 Mar 12  2013 C430Reps.c-act
+-rw------- 1 c4300001 c430000  11537 Mar 12  2013 C430Reps.c-resp
+-rw-r----- 1 c4300001 c430000 170200 Mar 13  2013 C430Reps.o
+-rwx------ 1 c4300001 c430000  23834 Mar  8  2013 clienta.c
+-rw------- 1 c4300001 c430000  22823 Mar  8  2013 clientant.c
+-rwxr-x--- 1 c4300001 c430000    389 Mar  8  2013 comp
+-rwxr-x--- 1 c4300001 c430000    405 Mar  8  2013 comp_bck
+-rwxr-x--- 1 c4300001 c430000   2700 Mar 11  2013 compreps
+-rwxr-x--- 1 c4300001 c430000    730 Mar 11  2013 CompReps
+-rwxr-x--- 1 c4300001 c430000    246 Mar  9  2013 compSinTux.sh
+-rwx------ 1 c4300001 c430000   2227 Mar  8  2013 conexion.h
+-rw------- 1 c4300001 c430000    648 Mar  8  2013 dos.c
+-rwx------ 1 c4300001 c430000  13931 Mar 12  2013 formateo.h
+-rwxr-x--- 1 c4300001 c430000   5512 Mar  8  2013 lib_rep.h
+-rwxr-x--- 1 c4300001 c430000  16170 Mar  8  2013 libsbf.h
+-rwxr-x--- 1 c4300001 c430000    678 Mar  8  2013 makefile
+-rwxr-x--- 1 c4300001 c430000    495 Mar  8  2013 makefile_prueba
+-rwxr-x--- 1 c4300001 c430000    432 Mar  8  2013 makefile_prueba-1
+-rwxr-x--- 1 c4300001 c430000   1321 Mar  8  2013 makefile_revisar
+-rw-r----- 1 c4300001 c430000   1371 Mar 13  2013 make.r
+-rwxr-x--- 1 c4300001 c430000    444 Mar  9  2013 makeRepN
+-rwxr-x--- 1 c4300001 c430000    373 Mar  8  2013 makersp
+-rwxr-x--- 1 c4300001 c430000    730 Mar 11  2013 notcompila
+-rw------- 1 c4300001 c430000   5885 Mar  8  2013 rep13.c
+-rw-r----- 1 c4300001 c430000  25168 Mar 13  2013 rep13.o
+-rw-r----- 1 c4300001 c430000 135848 Mar 10  2013 rep14
+-rwx------ 1 c4300001 c430000   9606 Mar 13  2013 rep14.c
+-rw-r----- 1 c4300001 c430000  33696 Mar 13  2013 rep14.o
+-rwx------ 1 c4300001 c430000  10222 Mar  8  2013 rep16.c
+-rw-r----- 1 c4300001 c430000  36112 Mar 13  2013 rep16.o
+-rwx------ 1 c4300001 c430000  17944 Mar  8  2013 rep18.c
+-rw-r----- 1 c4300001 c430000  50960 Mar 13  2013 rep18.o
+-rwx------ 1 c4300001 c430000  18297 Mar  8  2013 rep20.c
+-rw-r----- 1 c4300001 c430000  51128 Mar 13  2013 rep20.o
+-rw------- 1 c4300001 c430000  10546 Mar  8  2013 rep22.c
+-rw-r----- 1 c4300001 c430000  29952 Mar 13  2013 rep22.o
+-rwx------ 1 c4300001 c430000  17895 Mar  8  2013 rep24.c
+-rw-r----- 1 c4300001 c430000  51944 Mar 13  2013 rep24.o
+-rwx------ 1 c4300001 c430000  14490 Mar  8  2013 rep26.c
+-rw-r----- 1 c4300001 c430000  43216 Mar 13  2013 rep26.o
+drwxr-x--- 2 c4300001 c430000   4096 Mar 13  2013 reportes2
+-rwxr-x--- 1 c4300001 c430000    128 Mar  8  2013 reportes.h
+-rw------- 1 c4300001 c430000   5664 Mar  8  2013 reps.c
+-rw-r----- 1 c4300001 c430000  24104 Mar 13  2013 reps.o
+-rwx------ 1 c4300001 c430000  11954 Mar  8  2013 risqldb.h
+-rwx------ 1 c4300001 c430000  12748 Mar  8  2013 server.c
+-rw-r----- 1 c4300001 c430000 156960 Mar 10  2013 sybesql.o
+-rwx------ 1 c4300001 c430000   2611 Mar  8  2013 varrep.h
+-rwx------ 1 c4300001 c430000   2967 Mar 13  2013 volcad.h
+
+./c4300003/C430Reps/RepsHux1123/reportes2:
+total 472
+drwxr-x--- 2 c4300001 c430000   4096 Mar 13  2013 .
+drwxr-x--- 3 c4300001 c430000   4096 Mar 13  2013 ..
+-rw-r----- 1 c4300001 c430000  88392 Mar 13  2013 a.out
+-rwxr-x--- 1 c4300001 c430000  13656 Mar  9  2013 arboluni.h
+-rwx------ 1 c4300001 c430000   4127 Mar 13  2013 conexion.h
+-rwx------ 1 c4300001 c430000  13931 Mar  9  2013 formateo.h
+-rwx------ 1 c4300001 c430000    554 Mar 11  2013 lib_rep.c
+-rwx------ 1 c4300001 c430000   5514 Mar  9  2013 lib_rep.h
+-rw-r----- 1 c4300001 c430000 130648 Mar 13  2013 lib_rep.o
+-rwx------ 1 c4300001 c430000    558 Mar  9  2013 makeLibRep
+-rwxr-x--- 1 c4300001 c430000    717 Mar 11  2013 notcompila
+-rwx------ 1 c4300001 c430000  11914 Mar  9  2013 risqldb.h
+-rw-r----- 1 c4300001 c430000 156984 Mar 11  2013 sybesql.o
+-rwx------ 1 c4300001 c430000   2611 Mar  9  2013 varrep.h
+-rwx------ 1 c4300001 c430000   2967 Mar  9  2013 volcad.h
+
+./c4300003/C430Reps/Stores:
+total 376
+drwxrwx--- 2 c4300001 c430000   4096 Apr 12  2016 .
+drwxr-xr-x 4 c4300001 c430000   4096 Sep 14 18:06 ..
+-rwxr-x--- 1 c4300001 c430000    168 Jul 16  2015 base.sh
+-rw-rw---- 1 c4300001 c430000    304 Nov 27  2015 borra_sp_ObtenDatosRep2.sql
+-rw-r----- 1 c4300001 c430000    303 Nov 27  2015 borra_sp_ObtenDatosRep7.sql
+-rw-rw---- 1 c4300001 c430000    182 Sep  1  2015 BorraTablsTemp.sql
+-rwxr-xr-x 1 c4300001 c430000   1171 Jul  8  2015 c430_desinstsps.sh
+-rwxr-xr-x 1 c4300001 c430000   1234 Sep  1  2015 c430_instsps.sh
+-rw-rw---- 1 c4300001 c430000 153600 Sep  1  2015 c430inst_sps.tar
+-rw-r----- 1 c4300001 c430000   1883 Apr 12  2016 Crea_M1.sql
+-rw-r----- 1 c4300001 c430000   1944 Apr 12  2016 Crea_MTCHIH01.sql
+-rwxr-x--- 1 c4300001 c430000   1858 Jul 16  2015 password.sh
+-rwxr-x--- 1 c4300001 c430000    173 Jul 16  2015 servidor.sh
+-rwxr-xr-x 1 c4300001 c430000   5647 Jul  8  2015 sp_ObtenDatosRep13ant.sql
+-rwxr-xr-x 1 c4300001 c430000   5504 Jun 22  2015 sp_ObtenDatosRep13.sql
+-rwxr-xr-x 1 c4300001 c430000   7148 Jul  8  2015 sp_ObtenDatosRep14ant.sql
+-rwxr-xr-x 1 c4300001 c430000   6952 Jun 22  2015 sp_ObtenDatosRep14.sql
+-rwxr-xr-x 1 c4300001 c430000  15502 Jul  8  2015 sp_ObtenDatosRep18ant.sql
+-rwxr-xr-x 1 c4300001 c430000  15301 Jun 22  2015 sp_ObtenDatosRep18.sql
+-rwxr-xr-x 1 c4300001 c430000  15791 Jul  8  2015 sp_ObtenDatosRep22ant.sql
+-rwxr-xr-x 1 c4300001 c430000  15601 Jun 22  2015 sp_ObtenDatosRep22.sql
+-rwxr-xr-x 1 c4300001 c430000  11657 Jul  8  2015 sp_ObtenDatosRep24ant.sql
+-rwxr-xr-x 1 c4300001 c430000  11458 Jul  8  2015 sp_ObtenDatosRep24.sql
+-rwxr-xr-x 1 c4300001 c430000  10932 Jul  8  2015 sp_ObtenDatosRep26ant.sql
+-rwxr-xr-x 1 c4300001 c430000  10595 Jun 22  2015 sp_ObtenDatosRep26.sql
+-rw-rw---- 1 c4300001 c430000   5323 Nov 27  2015 sp_ObtenDatosRep2.sql
+-rw-r----- 1 c4300001 c430000   7311 Nov 27  2015 sp_ObtenDatosRep7ant.sql
+-rw-r----- 1 c4300001 c430000   7176 Jan 13  2016 sp_ObtenDatosRep7.sql
+-rwxr-x--- 1 c4300001 c430000    172 Jul 16  2015 usuario.sh
+
+./c4300003/creaDerSBF y repGen:
+total 348
+drwxr-xr-x 2 c4300001 c430000  4096 Sep 14 18:12 .
+drwxr-xr-x 6 c4300001 c430000  4096 Feb 26  2015 ..
+-rwxrwx--- 1 c4300001 c430000 48269 Sep 14 18:12 creaDerSBF
+-rwxrwx--- 1 c4300001 c430000 48037 Jun 23  2015 creaDerSBFant
+-rw-r--r-- 1 c4300001 c430000 79816 Jun 23  2015 creaDerSBFant.c
+-rw-r----- 1 c4300001 c430000 81849 Sep 14 18:10 creaDerSBF.c
+-rw-r--r-- 1 c4300001 c430000  1029 Jun  9  2015 makefile
+-rwxrwx--- 1 c4300001 c430000 20123 Sep 14 18:12 repGen
+-rwxrwx--- 1 c4300001 c430000 19891 Jun 23  2015 repGenant
+-rw-r--r-- 1 c4300001 c430000 15437 Jun  9  2015 repGenant.c
+-rw-r----- 1 c4300001 c430000 15944 Sep 14 18:11 repGen.c
+
+./c4300003/Intelar y depuraReps:
+total 1244
+drwxr-xr-x 2 c4300001 c430000  4096 Sep 14 18:29 .
+drwxr-xr-x 6 c4300001 c430000  4096 Feb 26  2015 ..
+-rwxrwx--- 1 c4300001 c430000 53071 Sep 14 18:27 depuraRepsC
+-rwxrwx--- 1 c4300001 c430000 52847 Jun 23  2015 depuraRepsCaa
+-rw-r--r-- 1 c4300001 c430000 29108 Jun 23  2015 depuraRepsCaa.c
+-rwxrwx--- 1 c4300001 c430000 52807 May 31  2016 depuraRepsCant
+-rw-r----- 1 c4300001 c430000 29298 May 31  2016 depuraRepsCant.c
+-rw-r--r-- 1 c4300001 c430000 11235 Jan 26  2015 depuraRepsCant.h
+-rw-r----- 1 c4300001 c430000 30168 Sep 14 18:26 depuraRepsC.c
+-rw-r----- 1 c4300001 c430000 11239 May 31  2016 depuraRepsC.h
+-rwxrwx--- 1 c4300001 c430000 53039 Sep 14 18:28 depuraRepsD
+-rwxrwx--- 1 c4300001 c430000 52815 Jun 23  2015 depuraRepsDaa
+-rw-r--r-- 1 c4300001 c430000 24783 Jun 23  2015 depuraRepsDaa.c
+-rwxrwx--- 1 c4300001 c430000 52775 May 31  2016 depuraRepsDant
+-rw-r----- 1 c4300001 c430000 24975 May 31  2016 depuraRepsDant.c
+-rw-r----- 1 c4300001 c430000 25843 Sep 14 18:27 depuraRepsD.c
+-rw-r----- 1 c4300001 c430000  9430 Jul  4  2015 intelarant.h
+-rwxrwx--- 1 c4300001 c430000 79213 Sep 14 18:28 intelarC
+-rw-r----- 1 c4300001 c430000 25564 Jul  4  2015 intelarCaaa.c
+-rw-r----- 1 c4300001 c430000 25753 May 31  2016 intelarCaa.c
+-rwxrwx--- 1 c4300001 c430000 78989 Aug  5  2016 intelarCant
+-rw-r----- 1 c4300001 c430000 26000 Aug  5  2016 intelarCant.c
+-rw-r----- 1 c4300001 c430000 26899 Sep 14 18:21 intelarC.c
+-rwxrwx--- 1 c4300001 c430000 79005 May 31  2016 intelarCProd
+-rwxrwx--- 1 c4300001 c430000 55661 Sep 14 18:29 intelarD
+-rwxrwx--- 1 c4300001 c430000 55589 May 31  2016 intelarDaa
+-rw-r--r-- 1 c4300001 c430000 24770 Jul  8  2015 intelarDaaa.c
+-rw-r----- 1 c4300001 c430000 24963 May 31  2016 intelarDaa.c
+-rwxrwx--- 1 c4300001 c430000 55629 Aug  5  2016 intelarDant
+-rw-r----- 1 c4300001 c430000 25171 Aug  5  2016 intelarDant.c
+-rw-r----- 1 c4300001 c430000 26060 Sep 14 18:22 intelarD.c
+-rw-r----- 1 c4300001 c430000  9434 May 31  2016 intelar.h
+-rwxr-xr-x 1 c4300001 c430000   476 Jan 26  2015 makeDepRepsC
+-rwxr-xr-x 1 c4300001 c430000   452 Jan 26  2015 makeDepRepsD
+-rwxr-x--- 1 c4300001 c430000   754 Jul  2  2015 makeInteC
+-rwxr-xr-x 1 c4300001 c430000   457 Jan 26  2015 makeInteD
+
+./c4300004:
+total 16
+drwxr-xr-x 4 c4300001 c430000 4096 Sep 23  2014 .
+drwxr-xr-x 8 c4300001 c430000 4096 Sep 30  2015 ..
+drwxr-xr-x 4 c4300001 c430000 4096 Sep 17 18:31 CDF_Envio
+drwxr-xr-x 2 c4300001 c430000 4096 Sep 17 15:02 CDF_Respuesta
+
+./c4300004/CDF_Envio:
+total 4872
+drwxr-xr-x 4 c4300001 c430000   4096 Sep 17 18:31 .
+drwxr-xr-x 4 c4300001 c430000   4096 Sep 23  2014 ..
+-rw-rw---- 1 c4300001 c430000  10105 Feb 27  2015 2
+-rw-r--r-- 1 c4300001 c430000   8119 Jan 26  2015 ArchComunes.h
+-rw-r--r-- 1 c4300001 c430000    547 Jan 26  2015 archivoCDF.h
+-rw-r--r-- 1 c4300001 c430000   2889 Jan 26  2015 cam1000.h
+-rw-r--r-- 1 c4300001 c430000   1939 Jan 26  2015 cam1100.h
+-rw-r--r-- 1 c4300001 c430000   4201 Jan 26  2015 cam3000.h
+-rw-r--r-- 1 c4300001 c430000   7284 Jan 26  2015 cam4000.h
+-rw-r--r-- 1 c4300001 c430000   8777 Jan 26  2015 cam4100.h
+-rw-r--r-- 1 c4300001 c430000   2760 Jan 26  2015 cam4200.h
+-rw-r--r-- 1 c4300001 c430000   9294 Jan 26  2015 cam4300.h
+-rw-r--r-- 1 c4300001 c430000   9807 Jan 26  2015 cam5000.h
+-rw-r--r-- 1 c4300001 c430000   2269 Jan 26  2015 cam9999.h
+-rw-r--r-- 1 c4300001 c430000    691 Jan 26  2015 camFTO.h
+-rw-r--r-- 1 c4300001 c430000  25046 Feb 27  2015 campos.h
+-rw-r--r-- 1 c4300001 c430000   2233 Jun  9  2015 conexion.h
+drwxr-x--- 6 c4300001 c430000   4096 Apr 26  2018 fechas
+-rw-r--r-- 1 c4300001 c430000  13410 Jan 26  2015 fechas.c
+-rw-r--r-- 1 c4300001 c430000   2036 Jan 26  2015 fechas.h
+-rw-rw---- 1 c4300001 c430000  19916 Jun 11  2015 fechas.lib
+-rw-r--r-- 1 c4300001 c430000  44388 Jan 26  2015 fechas.lib.bak
+-rw-r----- 1 c4300001 c430000 122880 Jun 11  2015 fechas.tar
+-rw-r--r-- 1 c4300001 c430000   2088 Jan 26  2015 fileprob.c
+-rwxrwx--- 1 c4300001 c430000 121070 Sep 14 19:39 genarchb
+-rw-r--r-- 1 c4300001 c430000 112955 Jun  8  2015 genarchbant.c
+-rw-r----- 1 c4300001 c430000 115011 Sep 14 19:35 genarchb.c
+-rw-r--r-- 1 c4300001 c430000  14770 Jan 26  2015 genconsultas.h
+-rw-r----- 1 c4300001 c430000  29394 Jun 11  2015 genvar1.h
+-rw-r--r-- 1 c4300001 c430000  29383 Jun 10  2015 genvar.h
+drwxrwx--- 2 c4300001 c430000   4096 Jun 16  2015 lib_rep
+-rw-r--r-- 1 c4300001 c430000   5135 Jun 12  2015 lib_rep.h
+-rw-rw---- 1 c4300001 c430000  39248 Jun 16  2015 lib_rep.o
+-rw-r--r-- 1 c4300001 c430000   2311 Jan 26  2015 llena.h
+-rwxr-xr-x 1 c4300001 c430000   1567 Jun 29  2015 makefile
+-rwxr-x--- 1 c4300001 c430000    503 Jun 17  2015 makevalarch
+-rwxr-xr-x 1 c4300001 c430000    631 Mar  4  2015 makevalarch.back
+-rwxr-x--- 1 c4300001 c430000    748 Jun 17  2015 makevalarchNew
+-rw-rw---- 1 c4300001 c430000  11960 Jun  9  2015 out.o
+-rwxrwx--- 1 c4300001 c430000  38440 Sep 14 19:39 r1000
+-rwxrwx--- 1 c4300001 c430000  38193 Jun  9  2015 r1000aa
+-rw-r--r-- 1 c4300001 c430000  16908 Jun  8  2015 r1000a.c
+-rwxrwx--- 1 c4300001 c430000  38323 Oct 28  2015 r1000ant
+-rw-r----- 1 c4300001 c430000  17113 Oct 28  2015 r1000ant.c
+-rw-r----- 1 c4300001 c430000  17579 Sep 14 18:42 r1000.c
+-rwxrwx--- 1 c4300001 c430000  47552 Sep 14 19:39 r3000
+-rwxrwx--- 1 c4300001 c430000  44366 Jun 10  2015 r3000aa
+-rw-r--r-- 1 c4300001 c430000  15978 Jun 10  2015 r3000a.c
+-rwxrwx--- 1 c4300001 c430000  47504 Oct 28  2015 r3000ant
+-rw-r----- 1 c4300001 c430000  16123 Oct 28  2015 r3000ant.c
+-rw-r----- 1 c4300001 c430000  16678 Sep 14 18:43 r3000.c
+-rwxrwx--- 1 c4300001 c430000  73125 Sep 14 19:39 r4000
+-rwxrwx--- 1 c4300001 c430000  72936 Jul  7  2015 r4000aa
+-rw-r----- 1 c4300001 c430000  52315 Jul  7  2015 r4000a.c
+-rwxrwx--- 1 c4300001 c430000  73008 Oct 27  2015 r4000ant
+-rw-r----- 1 c4300001 c430000  53785 Oct 27  2015 r4000ant.c
+-rw-r----- 1 c4300001 c430000  55383 Sep 14 18:47 r4000.c
+-rwxrwx--- 1 c4300001 c430000  55324 Sep 14 19:39 r4100
+-rwxrwx--- 1 c4300001 c430000  55276 Jul  6  2015 r4100ant
+-rw-r----- 1 c4300001 c430000  22473 Jul  6  2015 r4100ant.c
+-rw-r----- 1 c4300001 c430000  23301 Sep 14 18:49 r4100.c
+-rwxrwx--- 1 c4300001 c430000  45670 Sep 14 19:39 r4200
+-rwxrwx--- 1 c4300001 c430000  45116 Jul  6  2015 r4200aa
+-rw-r----- 1 c4300001 c430000  26159 Jul  6  2015 r4200a.c
+-rwxrwx--- 1 c4300001 c430000  45262 Oct 27  2015 r4200ant
+-rw-r----- 1 c4300001 c430000  26300 Oct 27  2015 r4200ant.c
+-rw-r----- 1 c4300001 c430000  27298 Sep 14 18:50 r4200.c
+-rwxrwx--- 1 c4300001 c430000  79316 Sep 17 18:31 r4300
+-rwxrwx--- 1 c4300001 c430000  77988 Oct 22  2015 r4300aa
+-rwxrwx--- 1 c4300001 c430000  77876 Jul  6  2015 r4300aaa
+-rw-r----- 1 c4300001 c430000  59026 Oct 22  2015 r4300a.c
+-rwxrwx--- 1 c4300001 c430000  79220 Oct 28  2015 r4300ant
+-rw-r----- 1 c4300001 c430000  60923 Oct 28  2015 r4300ant.c
+-rw-r----- 1 c4300001 c430000  62379 Sep 17 18:30 r4300.c
+-rwxrwx--- 1 c4300001 c430000  97834 Sep 14 19:39 r5000
+-rwxrwx--- 1 c4300001 c430000  97754 Oct 27  2015 r5000aaa
+-rw-r----- 1 c4300001 c430000  63551 Oct 27  2015 r5000aa.c
+-rw-r----- 1 c4300001 c430000  63551 Jan 18  2016 r5000a.c
+-rwxrwx--- 1 c4300001 c430000  97762 Mar 16  2016 r5000ant
+-rw-r----- 1 c4300001 c430000  63627 Mar 16  2016 r5000ant.c
+-rw-r----- 1 c4300001 c430000  65511 Sep 14 18:56 r5000.c
+-rwxrwx--- 1 c4300001 c430000  36392 Sep 14 19:39 r9999
+-rwxrwx--- 1 c4300001 c430000  36152 Jul  6  2015 r9999ant
+-rw-r----- 1 c4300001 c430000  16981 Jul  6  2015 r9999ant.c
+-rw-r----- 1 c4300001 c430000  17417 Sep 14 18:58 r9999.c
+-rw-r----- 1 c4300001 c430000  56253 Jun  9  2015 rant.c
+-rw-r----- 1 c4300001 c430000  57965 Sep 13 15:00 r.c
+-rw-r--r-- 1 c4300001 c430000   2297 Jan 26  2015 redondea.c
+-rw-r--r-- 1 c4300001 c430000   3289 Jan 26  2015 redondeo.c
+-rw-rw---- 1 c4300001 c430000 860160 Jun 15  2015 resp1.tar
+-rwx------ 1 c4300001 c430000  11984 Jun 15  2015 risqldb.h
+-rw-r--r-- 1 c4300001 c430000  44104 Mar 16  2015 rut_fecha.o
+-rw-r----- 1 c4300001 c430000    379 Jun 15  2015 SAPUF_Enlace.h
+-rw-r--r-- 1 c4300001 c430000   1329 Jan 26  2015 simbolos.h
+-rw-r--r-- 1 c4300001 c430000    452 Jan 26  2015 substr.h
+-rw-r--r-- 1 c4300001 c430000    974 Mar 15  2015 sybdbex.h
+-rw-r----- 1 c4300001 c430000    253 Jun 15  2015 tipos.h
+-rw-r--r-- 1 c4300001 c430000  10820 Jan 26  2015 vali1000.h
+-rw-r--r-- 1 c4300001 c430000  12138 Jan 26  2015 vali3000.h
+-rw-r--r-- 1 c4300001 c430000  21572 Jan 26  2015 vali4000.h
+-rw-r--r-- 1 c4300001 c430000  21932 Jan 26  2015 vali4100.h
+-rw-r--r-- 1 c4300001 c430000   9950 Jan 26  2015 vali4200.h
+-rw-r--r-- 1 c4300001 c430000  28119 Jan 26  2015 vali4300.h
+-rw-r--r-- 1 c4300001 c430000  33035 Jan 26  2015 vali5000.h
+-rw-r--r-- 1 c4300001 c430000   7457 Jan 26  2015 vali9999.h
+-rwxrwx--- 1 c4300001 c430000 105701 Jun 17  2015 validaArchivoCDF
+-rw-r--r-- 1 c4300001 c430000  11492 Jun 15  2015 validaArchivoCDF.c
+-rw-rw---- 1 c4300001 c430000 183560 Jun 17  2015 validaArchivoCDF.o
+-rwxrwx--- 1 c4300001 c430000  33387 Sep 14 19:39 validaEstructCDF
+-rwxrwx--- 1 c4300001 c430000  33147 Jun  9  2015 validaEstructCDFant
+-rw-r--r-- 1 c4300001 c430000   9791 Jun  8  2015 validaEstructCDFant.c
+-rw-r----- 1 c4300001 c430000  10203 Sep 14 19:37 validaEstructCDF.c
+
+./c4300004/CDF_Envio/fechas:
+total 32
+drwxr-x--- 6 c4300001 c430000 4096 Apr 26  2018 .
+drwxr-xr-x 4 c4300001 c430000 4096 Sep 17 18:31 ..
+drwxr-x--- 2 c4300001 c430000 4096 Jul 31  2012 fuentes
+-rw-r----- 1 c4300001 c430000  565 Jun 11  2015 fun_fecha.mk
+-rw-r----- 1 c4300001 c430000  539 Jun 11  2015 fun_fecha.mkant
+drwxr-x--- 2 c4300001 c430000 4096 Jul 31  2012 include
+drwxr-x--- 2 c4300001 c430000 4096 Jun 16  2015 lib
+drwxr-x--- 2 c4300001 c430000 4096 Jun 16  2015 objetos
+
+./c4300004/CDF_Envio/fechas/fuentes:
+total 32
+drwxr-x--- 2 c4300001 c430000  4096 Jul 31  2012 .
+drwxr-x--- 6 c4300001 c430000  4096 Apr 26  2018 ..
+-rw-r----- 1 c4300001 c430000 20985 Jul 31  2012 rut_fecha.c
+
+./c4300004/CDF_Envio/fechas/include:
+total 12
+drwxr-x--- 2 c4300001 c430000 4096 Jul 31  2012 .
+drwxr-x--- 6 c4300001 c430000 4096 Apr 26  2018 ..
+-rw-r----- 1 c4300001 c430000 1980 Jul 31  2012 fechas.h
+
+./c4300004/CDF_Envio/fechas/lib:
+total 28
+drwxr-x--- 2 c4300001 c430000  4096 Jun 16  2015 .
+drwxr-x--- 6 c4300001 c430000  4096 Apr 26  2018 ..
+-rw-rw---- 1 c4300001 c430000 19916 Jun 16  2015 fechas.lib
+
+./c4300004/CDF_Envio/fechas/objetos:
+total 28
+drwxr-x--- 2 c4300001 c430000  4096 Jun 16  2015 .
+drwxr-x--- 6 c4300001 c430000  4096 Apr 26  2018 ..
+-rw-rw---- 1 c4300001 c430000 19632 Jun 16  2015 rut_fecha.o
+
+./c4300004/CDF_Envio/lib_rep:
+total 844
+drwxrwx--- 2 c4300001 c430000   4096 Jun 16  2015 .
+drwxr-xr-x 4 c4300001 c430000   4096 Sep 17 18:31 ..
+-rwxr-x--- 1 c4300001 c430000  13656 Mar  9  2013 arboluni.h
+-rwx------ 1 c4300001 c430000   4127 Mar 13  2013 conexion.h
+-rwx------ 1 c4300001 c430000  13931 Mar  9  2013 formateo.h
+-rwx------ 1 c4300001 c430000    554 Mar 11  2013 lib_rep.c
+-rwx------ 1 c4300001 c430000   5514 Mar  9  2013 lib_rep.h
+-rw-rw---- 1 c4300001 c430000  39248 Jun 16  2015 lib_rep.o
+-rw-r----- 1 c4300001 c430000 450560 Jun 11  2015 lib_rep.tar
+-rwx------ 1 c4300001 c430000    623 Jun 16  2015 makeLibRep
+-rwxr-x--- 1 c4300001 c430000    717 Mar 11  2013 notcompila
+-rwx------ 1 c4300001 c430000  11934 Jun 15  2015 risqldb.h
+-rw-rw---- 1 c4300001 c430000 107592 Jun 16  2015 sybesql.o
+-rw-r----- 1 c4300001 c430000 156984 Mar 11  2013 sybesql.oant
+-rwx------ 1 c4300001 c430000   2611 Mar  9  2013 varrep.h
+-rwx------ 1 c4300001 c430000   2967 Mar  9  2013 volcad.h
+
+./c4300004/CDF_Respuesta:
+total 324
+drwxr-xr-x 2 c4300001 c430000  4096 Sep 17 15:02 .
+drwxr-xr-x 4 c4300001 c430000  4096 Sep 23  2014 ..
+-rw-r--r-- 1 c4300001 c430000  2401 Sep 17 11:53 conexionant.h
+-rw-r----- 1 c4300001 c430000  2418 Sep 17 12:05 conexion.h
+-rw-r--r-- 1 c4300001 c430000  5136 Jan 26  2015 lib_rep.h
+-rwxr-xr-x 1 c4300001 c430000   681 Feb 26  2015 makefile
+-rwxr-x--- 1 c4300001 c430000   841 Jun 17  2015 makefileNew
+-rw-r--r-- 1 c4300001 c430000 35528 Jan 26  2015 qryrep.h
+-rw-r--r-- 1 c4300001 c430000 13047 Sep 17 11:53 risqldbant.h
+-rw-r----- 1 c4300001 c430000 13010 Sep 17 12:22 risqldb.h
+-rw-r--r-- 1 c4300001 c430000   451 Jan 26  2015 substr.h
+-rw-r--r-- 1 c4300001 c430000  1063 Jan 26  2015 sybdbex.h
+-rwxrwx--- 1 c4300001 c430000 49153 Jun 17  2015 validaErrCDF
+-rw-r--r-- 1 c4300001 c430000  2652 Feb 26  2015 validaErrCDF.c
+-rw-rw---- 1 c4300001 c430000 59104 Jun 17  2015 validaErrCDF.o
+-rwxrwx--- 1 c4300001 c430000 23873 Sep 17 13:00 valoraMTC
+-rwxrwx--- 1 c4300001 c430000 23708 Jun 17  2015 valoraMTCant
+-rw-r--r-- 1 c4300001 c430000  6170 Sep 17 11:54 valoraMTCant.c
+-rw-r----- 1 c4300001 c430000  6167 Sep 17 12:33 valoraMTC.c
+-rw-r--r-- 1 c4300001 c430000 20508 Jan 26  2015 valoraMTC.h
+-rw-r--r-- 1 c4300001 c430000  1518 Jan 26  2015 varrep.h
+
+./c4300005:
+total 104
+drwxr-xr-x 2 c4300001 c430000  4096 Sep 17 15:02 .
+drwxr-xr-x 8 c4300001 c430000  4096 Sep 30  2015 ..
+-rwxrwx--- 1 c4300001 c430000 20224 Sep 17 12:21 ActRech
+-rwxrwx--- 1 c4300001 c430000 19960 Jun  8  2015 ActRechant
+-rw-r--r-- 1 c4300001 c430000 20480 Sep 13 14:23 ActRechant.c
+-rw-r----- 1 c4300001 c430000 21157 Sep 17 12:18 ActRech.c
+-rwxr-xr-x 1 c4300001 c430000   684 Feb 26  2015 makefile
+-rw-r--r-- 1 c4300001 c430000   451 Jan 26  2015 substr.h
+-rw-r--r-- 1 c4300001 c430000  1063 Jan 26  2015 sybdbex.h
+
+./c4300008:
+total 9092
+drwxr-xr-x 2 c4300001 c430000    4096 Oct  2 21:10 .
+drwxr-xr-x 8 c4300001 c430000    4096 Sep 30  2015 ..
+-rwxr-xr-x 1 c4300001 c430000  153108 Mar 25  2015 C430CreateTempTables
+-rw-r--r-- 1 c4300001 c430000  179636 Mar 25  2015 C430CreateTempTables.c
+-rw-r--r-- 1 c4300001 c430000   49752 Jan 26  2015 C430CreateTempTables.cp
+-rw-r--r-- 1 c4300001 c430000   15866 Jan 26  2015 C430CreateTempTables.h
+-rw-r--r-- 1 c4300001 c430000    5855 Oct  2 20:29 C430ErrHandle.c
+-rw-r--r-- 1 c4300001 c430000    4848 Jan 26  2015 C430ErrHandle.cp
+-rw-r--r-- 1 c4300001 c430000    2567 Jan 26  2015 C430FechaRFC.h
+-rwxrwx--- 1 c4300001 c430000  129743 Aug 23 19:22 C430GetCompanies
+-rwxr-xr-x 1 c4300001 c430000  129595 Mar 25  2015 C430GetCompaniesa
+-rw-r--r-- 1 c4300001 c430000  162926 Mar 25  2015 C430GetCompaniesa.c
+-rw-r--r-- 1 c4300001 c430000   13697 Jan 26  2015 C430GetCompaniesa.cp
+-rw-r----- 1 c4300001 c430000  162926 Aug 23 19:18 C430GetCompanies.c
+-rw-r----- 1 c4300001 c430000   13917 Aug 23 19:21 C430GetCompanies.cp
+-rw-r--r-- 1 c4300001 c430000    3762 Jan 26  2015 C430GetCompanies.h
+-rwxr-xr-x 1 c4300001 c430000  208627 Mar 25  2015 C430InsertCCF
+-rw-r--r-- 1 c4300001 c430000  269191 Mar 25  2015 C430InsertCCF.c
+-rw-r--r-- 1 c4300001 c430000  149513 Sep 26 14:34 C430InsertCCF.cp
+-rw-r--r-- 1 c4300001 c430000   15704 Jan 26  2015 C430InsertCCF.h
+-rw-r--r-- 1 c4300001 c430000     814 Jan 26  2015 C430Pais.h
+-rw-r--r-- 1 c4300001 c430000     374 Jan 26  2015 c430pos.c
+-rwxrwx--- 1 c4300001 c430000  491748 Oct  2 20:29 C430TransCCF
+-rwxrwx--- 1 c4300001 c430000  491728 Jul  1  2015 C430TransCCFant
+-rw-r--r-- 1 c4300001 c430000  412063 Jul  1  2015 C430TransCCFant.cp
+-rw-r--r-- 1 c4300001 c430000 1451995 Oct  2 20:29 C430TransCCF.c
+-rw-r----- 1 c4300001 c430000  412092 Oct  2 20:27 C430TransCCF.cp
+-rw-r--r-- 1 c4300001 c430000   38906 Mar 25  2015 C430TransCCF.h
+-rwxrwx--- 1 c4300001 c430000  479026 Jul  1  2015 C430TransCCF_rangos
+-rw-r--r-- 1 c4300001 c430000 1501776 Jul  1  2015 C430TransCCF_rangos.c
+-rw-r--r-- 1 c4300001 c430000  405971 Jan 26  2015 C430TransCCF_rangos.cp
+-rw-rw---- 1 c4300001 c430000 1789788 Jul  1  2015 CCF4943889380630D.txt
+-rwxr-xr-x 1 c4300001 c430000     727 Mar 25  2015 compilaC430CreateTempTables.sh
+-rwxr-xr-x 1 c4300001 c430000     607 Mar 25  2015 compilaC430GetCompanies.sh
+-rwxr-xr-x 1 c4300001 c430000     540 Mar 25  2015 compilaC430InsertCCF.sh
+-rwxr-xr-x 1 c4300001 c430000     587 Mar 25  2015 compilaC430TransCCF_rangos.sh
+-rwxr-xr-x 1 c4300001 c430000     544 Jun 30  2015 compilaC430TransCCF.sh
+vm-2d9b-6102:/opt/c430/000/bin/Compiladores/Compilaciones Actuales >
