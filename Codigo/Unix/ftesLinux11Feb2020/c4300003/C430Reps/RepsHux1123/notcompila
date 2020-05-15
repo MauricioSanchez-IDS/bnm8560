@@ -1,0 +1,28 @@
+#./precompi
+
+rm  rep14.o
+
+CFLAGS="-g +DD64 -DSYB_LP64"
+
+#############################
+## DIRECTORIOS DE INCLUDE
+#############################
+
+INCAGENTE=/opt/c046/105/include
+OCS_INCLUDE=$SYBASE/$SYBASE_OCS/include
+
+PATHINCLUDE="-I. -I$INCAGENTE -I$SYBASE_OCS -I$OCS_INCLUDE"
+
+#############################
+## DIRECTORIOS DE LIBRERIAS
+#############################
+
+LIBAGENTE=/opt/c046/105/lib
+LIBSYBASE=$SYBASE/$SYBASE_OCS/lib
+LIBHPUX64=/usr/lib/hpux64
+
+#rep14: rep14 
+	cc $CFLAGS $PATHINCLUDE reportes2/lib_rep.o rep14.c -L/usr/lib/hpux64 -L/opt/c046/105/lib -L/opt/sybase15/OCS-15_0/lib/ -lsybcs64 -lsybtcl64 -lsybcomn64 -lsybintl64 -lsybunic64 -lsybct64 -lsybblk64 -lsybdb64 -lagenteSapuf64 -ldes32sapuf64 -DSYB_LP64  -lm 
+
+
+

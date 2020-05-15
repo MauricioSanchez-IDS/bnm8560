@@ -1,0 +1,34 @@
+#CFLAGS=-g
+
+#__HP_Changes for Linux Migration -Start
+#change sybase path
+#SYBASE=/opt/sybase15
+SYBASE=/optware/sybase/ase157sp104
+#__HP_Changes for Linux Migration -End
+OBJS=sapuf.o
+INCDIR=$(SYBASE)/OCS-15_0/include
+LIBDIR=$(SYBASE)/OCS-15_0/lib
+HEADERS=$(INCDIR)/sybfront.h $(INCDIR)/sybdb.h
+#SYBLIBS=-L$(LIBDIR) -lsybct64 -lsybcs64 -lsybtcl64 -lsybcomn64 -lsybintl64 -lsybunic64 -lsybdb64 -lcl -lm -L/usr/lib
+SYBLIBS=-L$(LIBDIR) -lsybct64 -lsybcs64 -lsybtcl64 -lsybcomn64 -lsybintl64 -lsybunic64 -lsybdb64 -lm -L/usr/lib
+#LIBAGENTE=/opt/c046/105/lib
+#LIBAGENTE=/opt/c046/105/lib -ldes32sapuf64 -lagenteSapuf64 
+LIBAGENTE=/opt/c046/105/lib 
+INCAGENTE=/opt/c046/105/include
+INCLUDE=-I.
+
+SYBASE_OCS=$(SYBASE)/OCS-15_0
+INCLUDE_DIR=-I$(SYBASE_OCS)/include -I/usr/include
+#CFLAGS=-g -DSYB_LP64 -W1 $(INCLUDE_DIR) $(SYBLIBS) $(DEBUG) -L$(LIBAGENTE)
+
+CFLAGS= -m64 -g -DSYB_LP64
+# -W1 $(INCLUDE_DIR) $(SYBLIBS) $(DEBUG) -L$(LIBAGENTE)
+CC=cc
+
+sapuf : $(OBJS)
+	cc -o sapuf $(OBJS) -I$(INCAGENTE) $(SYBLIBS) -L$(LIBAGENTE) -lagenteSapuf64 -ldes32sapuf64
+
+sapuf.o : $(HEADERS) sapuf.c 
+#	cc -DSYB_LP64 -g sapuf.c -I. $(INCLUDE_DIR) $(SYBLIBS) -I$(INCAGENTE)
+#cc $(CFLAGS) -c sapuf.c $(INCDIR)/sybesql.c -I. -I$(INCAGENTE) $(INCLUDE_DIR) $(SYBLIBS)
+	cc -c $(CFLAGS) sapuf.c $(INCDIR)/sybesql.c -I. -I$(INCAGENTE) $(INCLUDE_DIR) $(SYBLIBS)

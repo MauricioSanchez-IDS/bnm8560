@@ -1,0 +1,11 @@
+SYBASE=/opt/sybase15
+INCDIR=$(SYBASE)/OCS-15_0/include
+LIBDIR=$(SYBASE)/OCS-15_0/lib
+CFLAGS=+DD64 +Z
+SYBLIBS=-L$(LIBDIR) -lsybct64 -lsybcs64 -lsybtcl64 -lsybcomn64 -lsybintl64 -lsybdb64 -lsybunic64 
+HEADERS=-I$(INCDIR)/sybfront.h -I$(INCDIR)/sybdb.h -I$(INCDIRS)/SAPUF_Enlace.h
+DBLIBS=-L$(LIBDIR) -lsybct64 -lsybcs64 -lsybtcl64 -lsybcomn64 -lsybintl64 -lsybdb64 -lcl -lm
+
+rep14:
+	cc $(CFLAGS) -I$(INCDIR) -I$(HEADERS) -I.  rep14.c $(SYBLIBS) 
+

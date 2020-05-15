@@ -1,0 +1,6 @@
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\x86\Release\AxGearLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\x86\Release\AxGearLib.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\x86\Release\Interop.GEARLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\x86\Release\Interop.StdType.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\obj\x86\Release\AxGearLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\obj\x86\Release\AxGearLib.pdb

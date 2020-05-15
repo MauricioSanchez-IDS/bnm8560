@@ -1,0 +1,10 @@
+echo "*** entra a compilar " $SYBASE
+${SYBASE}/OCS-15_0/bin/cpre64 C430CreateTempTables.cp
+
+${SYBASE}/OCS-15_0/bin/cpre64 C430ErrHandle.cp
+
+
+cc -o C430Reps -I. -I${SYBASE}/OCS-15_0/include -I/opt/c046/105/include \
+-L${SYBASE}/OCS-15_0/lib -lsybct64 -lsybcs64 -lsybtcl64 \
+-lsybcomn64 -lsybintl64 -lsybdb64 -lcl -lm -ldld -Wl,-E,+s +DD64 \
+${SYBASE}/OCS-15_0/include/sybesql.c C430Reps.c 
