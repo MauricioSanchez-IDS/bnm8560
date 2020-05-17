@@ -1,0 +1,15 @@
+SYBASE=/opt/sybase15
+INCDIRS=/opt/c046/105/include
+INCDIR=$(SYBASE)/OCS-15_0/include
+LIBDIR=$(SYBASE)/OCS-15_0/lib
+CFLAGS=+DD64 +Z
+SYBLIBS=-L$(LIBDIR) -lsybct64 -lsybcs64 -lsybtcl64 -lsybcomn64 -lsybintl64 -lsybdb64 -lsybunic64 
+HEADERS=-I$(INCDIR)/sybfront.h -I$(INCDIR)/sybdb.h -I$(INCDIRS)/SAPUF_Enlace.h
+
+all:C430Reps
+
+C430Reps:
+	cc $(CFLAGS) -I$(INCDIR) -I$(HEADERS) -I.  C430Reps.c $(SYBLIBS) -o C430Reps
+
+clean:
+	rm C430Reps

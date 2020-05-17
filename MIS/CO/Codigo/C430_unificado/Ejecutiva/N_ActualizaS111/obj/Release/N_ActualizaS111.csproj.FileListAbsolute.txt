@@ -1,0 +1,16 @@
+C:\C430_unificado\Corporativa\N_ActualizaS111\bin\Release\N_ActualizaS111.dll
+C:\C430_unificado\Corporativa\N_ActualizaS111\bin\Release\N_ActualizaS111.pdb
+C:\C430_unificado\Corporativa\N_ActualizaS111\bin\Release\N_TransS111.dll
+C:\C430_unificado\Corporativa\N_ActualizaS111\bin\Release\Artinsoft.VB6.dll
+C:\C430_unificado\Corporativa\N_ActualizaS111\bin\Release\N_TransS111.pdb
+C:\C430_unificado\Corporativa\N_ActualizaS111\obj\Release\N_ActualizaS111.csprojResolveAssemblyReference.cache
+C:\C430_unificado\Corporativa\N_ActualizaS111\obj\Release\N_ActualizaS111.dll
+C:\C430_unificado\Corporativa\N_ActualizaS111\obj\Release\N_ActualizaS111.pdb
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Release\N_ActualizaS111.dll
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Release\N_ActualizaS111.pdb
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Release\N_TransS111.dll
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Release\Artinsoft.VB6.dll
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Release\N_TransS111.pdb
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\obj\Release\N_ActualizaS111.csprojResolveAssemblyReference.cache
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\obj\Release\N_ActualizaS111.dll
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\obj\Release\N_ActualizaS111.pdb

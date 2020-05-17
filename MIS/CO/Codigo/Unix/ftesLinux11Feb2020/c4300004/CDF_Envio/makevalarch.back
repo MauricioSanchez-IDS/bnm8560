@@ -1,0 +1,25 @@
+#__HP_Changes for Linux Migration -Start
+##change sybase path
+
+#SYBASE=/opt/sybase15
+SYBASE=/optware/sybase/ase157sp104
+#__HP_Changes for Linux Migration -End
+INCDIR=$(SYBASE)/OCS-15_0/include
+LIBDIR=$(SYBASE)/OCS-15_0/lib
+CFLAGS=-m64 -DSYB_LP64
+SYBLIBS=-L$(LIBDIR) -lsybct64 -lsybcs64 -lsybtcl64 -lsybcomn64 -lsybintl64 -lsybdb64 -lsybunic64
+
+all:validaArchivoCDF
+
+
+
+validaArchivoCDF: validaArchivoCDF.o
+ 
+		cc $(CFLAGS)  -I$(INCDIR) -I. $(SYBLIBS)  validaArchivoCDF.o lib_rep.h sybdbex.h
+
+
+validaArchivoCDF.o :validaArchivoCDF.c
+
+		cc -c $(CFLAGS) -I$(INCDIR) -I.  $(SYBLIBS)  validaArchivoCDF.c
+#//clean:
+	# rm validaArchivoCDF

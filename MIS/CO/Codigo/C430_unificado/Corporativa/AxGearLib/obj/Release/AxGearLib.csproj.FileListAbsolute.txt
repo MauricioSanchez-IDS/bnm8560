@@ -1,0 +1,13 @@
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\Release\AxGearLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\Release\AxGearLib.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\Release\Interop.GEARLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\Release\Interop.StdType.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\obj\Release\AxGearLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\obj\Release\AxGearLib.pdb
+C:\C430_unificado\Corporativa\AxGearLib\bin\Release\AxGearLib.dll
+C:\C430_unificado\Corporativa\AxGearLib\bin\Release\AxGearLib.pdb
+C:\C430_unificado\Corporativa\AxGearLib\bin\Release\Interop.GEARLib.dll
+C:\C430_unificado\Corporativa\AxGearLib\bin\Release\Interop.StdType.dll
+C:\C430_unificado\Corporativa\AxGearLib\obj\Release\AxGearLib.csprojResolveAssemblyReference.cache
+C:\C430_unificado\Corporativa\AxGearLib\obj\Release\AxGearLib.dll
+C:\C430_unificado\Corporativa\AxGearLib\obj\Release\AxGearLib.pdb

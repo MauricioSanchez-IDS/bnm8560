@@ -1,0 +1,24 @@
+C:\SSS_430\Corporativa\N_ActualizaS111\bin\Debug\N_ActualizaS111.dll
+C:\SSS_430\Corporativa\N_ActualizaS111\bin\Debug\N_ActualizaS111.pdb
+C:\SSS_430\Corporativa\N_ActualizaS111\bin\Debug\N_TransS111.dll
+C:\SSS_430\Corporativa\N_ActualizaS111\bin\Debug\Artinsoft.VB6.dll
+C:\SSS_430\Corporativa\N_ActualizaS111\bin\Debug\N_TransS111.pdb
+C:\SSS_430\Corporativa\N_ActualizaS111\obj\Debug\N_ActualizaS111.csprojResolveAssemblyReference.cache
+C:\SSS_430\Corporativa\N_ActualizaS111\obj\Debug\N_ActualizaS111.dll
+C:\SSS_430\Corporativa\N_ActualizaS111\obj\Debug\N_ActualizaS111.pdb
+C:\NvaMaq\C430 Corporativa\Proyectos\2014\Migracion a Windows 7\FTES CORP Y EJEC V_2603_00\Ejecutiva\N_ActualizaS111\bin\Debug\N_ActualizaS111.dll
+C:\NvaMaq\C430 Corporativa\Proyectos\2014\Migracion a Windows 7\FTES CORP Y EJEC V_2603_00\Ejecutiva\N_ActualizaS111\bin\Debug\N_ActualizaS111.pdb
+C:\NvaMaq\C430 Corporativa\Proyectos\2014\Migracion a Windows 7\FTES CORP Y EJEC V_2603_00\Ejecutiva\N_ActualizaS111\bin\Debug\N_TransS111.dll
+C:\NvaMaq\C430 Corporativa\Proyectos\2014\Migracion a Windows 7\FTES CORP Y EJEC V_2603_00\Ejecutiva\N_ActualizaS111\bin\Debug\Artinsoft.VB6.dll
+C:\NvaMaq\C430 Corporativa\Proyectos\2014\Migracion a Windows 7\FTES CORP Y EJEC V_2603_00\Ejecutiva\N_ActualizaS111\bin\Debug\N_TransS111.pdb
+C:\NvaMaq\C430 Corporativa\Proyectos\2014\Migracion a Windows 7\FTES CORP Y EJEC V_2603_00\Ejecutiva\N_ActualizaS111\obj\Debug\N_ActualizaS111.csprojResolveAssemblyReference.cache
+C:\NvaMaq\C430 Corporativa\Proyectos\2014\Migracion a Windows 7\FTES CORP Y EJEC V_2603_00\Ejecutiva\N_ActualizaS111\obj\Debug\N_ActualizaS111.dll
+C:\NvaMaq\C430 Corporativa\Proyectos\2014\Migracion a Windows 7\FTES CORP Y EJEC V_2603_00\Ejecutiva\N_ActualizaS111\obj\Debug\N_ActualizaS111.pdb
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Debug\N_ActualizaS111.dll
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Debug\N_ActualizaS111.pdb
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Debug\N_TransS111.dll
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Debug\Artinsoft.VB6.dll
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\bin\Debug\N_TransS111.pdb
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\obj\Debug\N_ActualizaS111.csprojResolveAssemblyReference.cache
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\obj\Debug\N_ActualizaS111.dll
+C:\C430_unificado\Ejecutiva\N_ActualizaS111\obj\Debug\N_ActualizaS111.pdb

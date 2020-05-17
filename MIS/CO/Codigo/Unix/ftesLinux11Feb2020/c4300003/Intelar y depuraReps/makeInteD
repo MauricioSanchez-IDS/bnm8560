@@ -1,0 +1,16 @@
+#__HP_Changes for Linux Migration -Start
+#SYBASE		= /opt/sybase125/OCS-12_5
+SYBASE		= /optware/sybase/ase157sp104/OCS-15_0
+INCDIR		= $(SYBASE)/include
+LIBDIR		= $(SYBASE)/lib
+HEADERS		= $(INCDIR)/sybfront.h / $(INCDIR)/sybdb.h
+DBLIBS		= $(LIBDIR)/libsybdb64.so
+INCLUDE		= -I. -I$(INCDIR)
+DSYS		= BSD42
+DVERSION	=
+
+all: intelarD
+
+intelarD: $(HEADERS) intelarD.c
+	cc -m64 $(INCLUDE) intelarD.c $(DBLIBS) -lm -o intelarD
+#__HP_Changes for Linux Migration -End

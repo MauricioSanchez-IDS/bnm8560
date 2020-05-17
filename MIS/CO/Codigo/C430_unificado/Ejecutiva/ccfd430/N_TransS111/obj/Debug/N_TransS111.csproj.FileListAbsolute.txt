@@ -1,0 +1,39 @@
+C:\SSS_430\Corporativa\ccfc430\N_TransS111\bin\Debug\N_TransS111.dll
+C:\SSS_430\Corporativa\ccfc430\N_TransS111\bin\Debug\N_TransS111.pdb
+C:\SSS_430\Corporativa\ccfc430\N_TransS111\bin\Debug\Artinsoft.VB6.dll
+C:\SSS_430\Corporativa\ccfc430\N_TransS111\obj\Debug\N_TransS111.dll
+C:\SSS_430\Corporativa\ccfc430\N_TransS111\obj\Debug\N_TransS111.pdb
+C:\C430_unificado\Corporativa\ccfc430\N_TransS111\bin\Debug\N_TransS111.dll
+C:\C430_unificado\Corporativa\ccfc430\N_TransS111\bin\Debug\N_TransS111.pdb
+C:\C430_unificado\Corporativa\ccfc430\N_TransS111\bin\Debug\Artinsoft.VB6.dll
+C:\C430_unificado\Corporativa\ccfc430\N_TransS111\obj\Debug\N_TransS111.dll
+C:\C430_unificado\Corporativa\ccfc430\N_TransS111\obj\Debug\N_TransS111.pdb
+C:\C430_unificado\Corporativa\ccfc430\N_TransS111\obj\Debug\N_TransS111.csprojResolveAssemblyReference.cache
+C:\C430\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.dll
+C:\C430\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.pdb
+C:\C430\Ejecutiva\ccfd430\N_TransS111\bin\Debug\Artinsoft.VB6.dll
+C:\C430\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.dll
+C:\C430\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.pdb
+C:\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.dll
+C:\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.pdb
+C:\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\Artinsoft.VB6.dll
+C:\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.csprojResolveAssemblyReference.cache
+C:\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.dll
+C:\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.pdb
+C:\CodigoLuis\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.dll
+C:\CodigoLuis\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.pdb
+C:\CodigoLuis\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\Artinsoft.VB6.dll
+C:\CodigoLuis\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.dll
+C:\CodigoLuis\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.pdb
+C:\CodigoLuis\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.csprojResolveAssemblyReference.cache
+C:\CodigoLuis - copia\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.dll
+C:\CodigoLuis - copia\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.pdb
+C:\CodigoLuis - copia\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\Artinsoft.VB6.dll
+C:\CodigoLuis - copia\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.csprojResolveAssemblyReference.cache
+C:\CodigoLuis - copia\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.dll
+C:\CodigoLuis - copia\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.pdb
+C:\CodigoAngel\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.dll
+C:\CodigoAngel\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\N_TransS111.pdb
+C:\CodigoAngel\C430_unificado\Ejecutiva\ccfd430\N_TransS111\bin\Debug\Artinsoft.VB6.dll
+C:\CodigoAngel\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.dll
+C:\CodigoAngel\C430_unificado\Ejecutiva\ccfd430\N_TransS111\obj\Debug\N_TransS111.pdb

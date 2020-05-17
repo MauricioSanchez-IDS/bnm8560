@@ -1,0 +1,18 @@
+# 
+SYBASE		= /opt/sybase125/OCS-12_5
+#SYBASE		= /opt/sybase1103
+INCDIR		= $(SYBASE)/include
+LIBDIR		= $(SYBASE)/lib
+HEADERS		= $(INCDIR)/sybfront.h  $(INCDIR)/sybdb.h
+#DBLIBS		= $(LIBDIR)/libsybdb.sl
+DBLIBS          = /opt/sybase125/OCS-12_5/lib/libsybdb.sl   
+INCLUDE		= -I. -I$(INCDIR)
+DSYS		= BSD42
+DVERSION	=
+LIBAGENTE       = /opt/c046/105/lib                         
+INCAGENTE       = /opt/c046/105/include                     
+
+all: lib_rep
+
+lib_rep: $(HEADERS) lib_rep.c
+	cc -Ae -g -v -c $(INCLUDE) -I /opt/c046/105/include lib_rep.c $(DBLIBS) -lm 

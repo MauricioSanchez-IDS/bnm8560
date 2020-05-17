@@ -1,0 +1,21 @@
+#__HP_Changes for Linux Migration -Start
+#SYBASE		= /opt/sybase15/OCS-15_0
+SYBASE		= /optware/sybase/ase157sp104/OCS-15_0
+INCDIR		= $(SYBASE)/include
+LIBDIR		= $(SYBASE)/lib
+HEADERS		= $(INCDIR)/sybfront.h / $(INCDIR)/sybdb.h
+DBLIBS		= $(LIBDIR)/libsybdb64.so -L /optware/sybase/ase157sp104/OCS-15_0/lib
+INCLUDE		= -I. -I$(INCDIR)
+DSYS		= BSD42
+DVERSION	=
+
+SYBLIB=-lsybct64 -lsybtcl64 -lsybcs64 -lsybcomn64 -lsybintl64 -lsybunic64 -lsybblk64 -Wl,-Bdynamic -ldl -lnsl -lm
+
+SYBLIBS=-L$(SYBASE)/lib
+
+all: intelarC
+
+intelarC: $(HEADERS) intelarC.c
+	#cc -V +DD64 -DSYB_LP64 $(INCLUDE) intelarC.c $(SYBLIBS) $(DBLIBS) -lm -o intelarC
+	cc -g -Wall -m64 -DSYB_LP64 $(SYBLIB) $(INCLUDE) intelarC.c $(DBLIBS) -lm -o intelarC
+#__HP_Changes for Linux Migration -End

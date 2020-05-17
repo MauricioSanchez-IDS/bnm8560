@@ -1,0 +1,908 @@
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\RUT.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe.config
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe.manifest
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.application
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.pdb
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\API.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Artinsoft.VB6.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxGearLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.Crystal.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.FPSpreadADO.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.GraphLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.InetCtlsObjects.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MEDXLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComCtl2.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComctlLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComDlg.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSMAPI.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSMask.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSWinsockLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.Threed.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.CalcEngine.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Localization.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PDF.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PluginCalendar.WinForms.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Chart.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Spread.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\GrapeCity.Win.PluginInputMan.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.COMDRV32.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Conecta.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Crystal.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.EvaluadorExpReg.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.FPSpreadADO.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.GEARLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.GraphLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.InetCtlsObjects.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MEDXLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComCtl2.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComctlLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComDlg.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSMAPI.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSMask.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSWinsockLib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.OLERut.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.pryActualizaS111.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.prySeguridadS041.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.RDO.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.SAPUFENLACELib.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Scripting.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Threed.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.TransS111.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.VBIDE.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.VBSQLdll.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.CSharp.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.Office.Interop.Excel.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.stdformat.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.Compatibility.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Office.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Configuration.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Data.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Drawing.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Management.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Windows.Forms.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Xml.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.StdType.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxGearLib.pdb
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.CalcEngine.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PDF.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PluginCalendar.WinForms.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Chart.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Spread.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\GrapeCity.Win.PluginInputMan.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.pdb
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\ADODB.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\stdole.dll
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csprojResolveAssemblyReference.cache
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csproj.ResolveComReference.cache
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.ConsulUni.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORACCOM.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORACERC.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORALTFI.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCAMA.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCOFIR.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCONFI.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.Corcntrancta.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTACL.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTBNX.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTCATS.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTDIV.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEJB.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEJE.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEMP.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTESTRUCT2.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTGRU.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTPGS.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTREG.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTREN.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTUNI.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORDEPUR.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.COREXALT.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRACL.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRANT.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRBIT.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCOM.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCOR.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCRE.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGREMP.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRREN.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRSIT.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRVEN.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRACL.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREJB.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREJE.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREMP.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRGRU.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRRPE.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRRPG.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRUNI.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORLEYEN.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORLIMCR.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMDIBN.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMECDF.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMENIN.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.Cormn111.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNACL.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNCATS.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNDIV.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEJB.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEJE.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEMP.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNESTRUCT2.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNGRU.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNPAR.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNREG.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNREN.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNUNI.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMONE.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORPARREP.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORPROE.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRANG2.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORREGFI.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORREPCR.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPACL.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPANG.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCE2.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCEJ.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCGR.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDA1.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDAT.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDE1.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDEJ.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPEM2.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPEMA.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPGR2.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGBAN.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGCUS.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGGRU.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGPRE.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGUSU.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORTRAMO.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.EmpAsig.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAccCyRep.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAcceso.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAccesoBancanet.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAltaMasivaTH.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAltasMasivas.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmArchivosPendientes.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAutAltasMasivas.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAutLimUso.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmBancanet.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCambiosMasivos.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancAutoriz.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancLog.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancMaker.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCliBancanet.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmConsultaMasivas.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCtasNvas.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEjecutivo.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEmpNvas.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEmpresa.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEnvioLimCred.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmGeneraCargaIni.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmIntBusqueda.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmIntInicio.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmLogin.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmLoginS53.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelEmpresa.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelTH.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelTrans.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelUnidad.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvEjecutivo.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvioEmp.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvios.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.FrmRptCambioMasivo.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSBFEmpresa.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_SBF_tarjetahab.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSeguridad.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_categorias.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_CCFSeleccion.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_cons_tarj_uni.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_error_envio.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_men_cat.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_men_rep.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_reportes.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSBFtransacciones.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_Tran_Cat.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_unidades.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.MCC.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.MTCBRCCI.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.RangosCats.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.FrmTuxedo.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.Properties.Resources.resources
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csproj.GenerateResource.Cache
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe.licenses
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.TrustInfo.xml
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe.manifest
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.application
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe
+C:\Migracion a Windows 7\FTES ELIMINA RUT\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\RUT.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe.config
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe.manifest
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.application
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\API.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Artinsoft.VB6.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxGearLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.Crystal.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.FPSpreadADO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.GraphLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.InetCtlsObjects.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MEDXLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComCtl2.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComctlLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComDlg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSMAPI.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSMask.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSWinsockLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.Threed.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.CalcEngine.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Localization.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PDF.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PluginCalendar.WinForms.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Chart.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Spread.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\GrapeCity.Win.PluginInputMan.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.COMDRV32.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Conecta.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Crystal.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.EvaluadorExpReg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.FPSpreadADO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.GEARLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.GraphLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.InetCtlsObjects.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MEDXLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComCtl2.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComctlLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComDlg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSMAPI.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSMask.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSWinsockLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.OLERut.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.pryActualizaS111.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.prySeguridadS041.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.RDO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.SAPUFENLACELib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Scripting.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Threed.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.TransS111.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.VBIDE.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.VBSQLdll.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.CSharp.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.Office.Interop.Excel.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.stdformat.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.Compatibility.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Office.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Configuration.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Data.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Drawing.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Management.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Windows.Forms.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Xml.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.StdType.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxGearLib.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.CalcEngine.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PDF.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PluginCalendar.WinForms.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Chart.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Spread.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\GrapeCity.Win.PluginInputMan.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\ADODB.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\stdole.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csprojResolveAssemblyReference.cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csproj.ResolveComReference.cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.ConsulUni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORACCOM.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORACERC.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORALTFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCAMA.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCOFIR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCONFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.Corcntrancta.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTBNX.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTCATS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTDIV.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTESTRUCT2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTPGS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTREG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORDEPUR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.COREXALT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRANT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRBIT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCOM.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCOR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCRE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGREMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRSIT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRVEN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRRPE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRRPG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORLEYEN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORLIMCR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMDIBN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMECDF.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMENIN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.Cormn111.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNCATS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNDIV.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNESTRUCT2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNPAR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNREG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMONE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORPARREP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORPROE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRANG2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORREGFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORREPCR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPANG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCE2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCEJ.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCGR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDA1.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDAT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDE1.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDEJ.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPEM2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPEMA.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPGR2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGBAN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGCUS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGPRE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGUSU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORTRAMO.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.EmpAsig.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAccCyRep.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAcceso.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAccesoBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAltaMasivaTH.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAltasMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmArchivosPendientes.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAutAltasMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAutLimUso.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCambiosMasivos.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancAutoriz.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancLog.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancMaker.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCliBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmConsultaMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCtasNvas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEjecutivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEmpNvas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEnvioLimCred.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmGeneraCargaIni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmIntBusqueda.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmIntInicio.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmLogin.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmLoginS53.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelTH.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelTrans.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelUnidad.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvEjecutivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvioEmp.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvios.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.FrmRptCambioMasivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSBFEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_SBF_tarjetahab.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSeguridad.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_categorias.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_CCFSeleccion.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_cons_tarj_uni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_error_envio.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_men_cat.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_men_rep.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_reportes.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSBFtransacciones.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_Tran_Cat.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_unidades.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.MCC.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.MTCBRCCI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.RangosCats.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.FrmTuxedo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.Properties.Resources.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csproj.GenerateResource.Cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe.licenses
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.TrustInfo.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe.manifest
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.application
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_01\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\RUT.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe.config
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe.manifest
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.application
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\API.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Artinsoft.VB6.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxGearLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.Crystal.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.FPSpreadADO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.GraphLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.InetCtlsObjects.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MEDXLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComCtl2.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComctlLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComDlg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSMAPI.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSMask.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSWinsockLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.Threed.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.CalcEngine.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Localization.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PDF.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PluginCalendar.WinForms.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Chart.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Spread.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\GrapeCity.Win.PluginInputMan.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.COMDRV32.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Conecta.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Crystal.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.EvaluadorExpReg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.FPSpreadADO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.GEARLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.GraphLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.InetCtlsObjects.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MEDXLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComCtl2.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComctlLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComDlg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSMAPI.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSMask.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSWinsockLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.OLERut.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.pryActualizaS111.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.prySeguridadS041.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.RDO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.SAPUFENLACELib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Scripting.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Threed.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.TransS111.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.VBIDE.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.VBSQLdll.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.CSharp.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.Office.Interop.Excel.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.stdformat.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.Compatibility.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Office.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Configuration.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Data.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Drawing.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Management.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Windows.Forms.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Xml.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.StdType.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxGearLib.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.CalcEngine.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PDF.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PluginCalendar.WinForms.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Chart.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Spread.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\GrapeCity.Win.PluginInputMan.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\ADODB.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\stdole.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csprojResolveAssemblyReference.cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csproj.ResolveComReference.cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.ConsulUni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORACCOM.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORACERC.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORALTFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCAMA.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCOFIR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCONFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.Corcntrancta.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTBNX.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTCATS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTDIV.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTESTRUCT2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTPGS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTREG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORDEPUR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.COREXALT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRANT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRBIT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCOM.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCOR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCRE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGREMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRSIT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRVEN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRRPE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRRPG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORLEYEN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORLIMCR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMDIBN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMECDF.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMENIN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.Cormn111.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNCATS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNDIV.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNESTRUCT2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNPAR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNREG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMONE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORPARREP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORPROE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRANG2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORREGFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORREPCR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPANG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCE2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCEJ.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCGR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDA1.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDAT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDE1.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDEJ.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPEM2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPEMA.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPGR2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGBAN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGCUS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGPRE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGUSU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORTRAMO.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.EmpAsig.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAccCyRep.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAcceso.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAccesoBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAltaMasivaTH.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAltasMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmArchivosPendientes.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAutAltasMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAutLimUso.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCambiosMasivos.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancAutoriz.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancLog.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancMaker.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCliBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmConsultaMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCtasNvas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEjecutivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEmpNvas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEnvioLimCred.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmGeneraCargaIni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmIntBusqueda.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmIntInicio.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmLogin.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmLoginS53.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelTH.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelTrans.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelUnidad.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvEjecutivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvioEmp.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvios.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.FrmRptCambioMasivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSBFEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_SBF_tarjetahab.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSeguridad.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_categorias.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_CCFSeleccion.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_cons_tarj_uni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_error_envio.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_men_cat.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_men_rep.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_reportes.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSBFtransacciones.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_Tran_Cat.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_unidades.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.MCC.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.MTCBRCCI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.RangosCats.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.FrmTuxedo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.Properties.Resources.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csproj.GenerateResource.Cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe.licenses
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.TrustInfo.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe.manifest
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.application
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\RUT.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe.config
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe.manifest
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.application
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.exe
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\D430_NET.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\API.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Artinsoft.VB6.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxGearLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.Crystal.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.FPSpreadADO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.GraphLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.InetCtlsObjects.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MEDXLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComCtl2.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComctlLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSComDlg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSMAPI.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSMask.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.MSWinsockLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxInterop.Threed.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.CalcEngine.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Localization.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PDF.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PluginCalendar.WinForms.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Chart.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Spread.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\GrapeCity.Win.PluginInputMan.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.COMDRV32.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Conecta.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Crystal.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.EvaluadorExpReg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.FPSpreadADO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.GEARLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.GraphLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.InetCtlsObjects.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MEDXLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComCtl2.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComctlLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSComDlg.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSMAPI.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSMask.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.MSWinsockLib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.OLERut.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.pryActualizaS111.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.prySeguridadS041.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.RDO.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.SAPUFENLACELib.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Scripting.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.Threed.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.TransS111.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.VBIDE.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.VBSQLdll.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.CSharp.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.Office.Interop.Excel.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.stdformat.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.Compatibility.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Microsoft.VisualBasic.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Office.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Configuration.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Data.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Drawing.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Management.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Windows.Forms.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\System.Xml.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Interop.StdType.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\AxGearLib.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.CalcEngine.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PDF.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.PluginCalendar.WinForms.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Chart.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\FarPoint.Win.Spread.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\GrapeCity.Win.PluginInputMan.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\Softtek.Utils.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\ADODB.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\bin\stdole.dll
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csprojResolveAssemblyReference.cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csproj.ResolveComReference.cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.ConsulUni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORACCOM.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORACERC.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORALTFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCAMA.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCOFIR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCONFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.Corcntrancta.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTBNX.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTCATS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTDIV.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTEMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTESTRUCT2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTPGS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTREG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORCTUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORDEPUR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.COREXALT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRANT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRBIT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCOM.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCOR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRCRE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGREMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRSIT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORGRVEN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIREMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRRPE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRRPG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORIRUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORLEYEN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORLIMCR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMDIBN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMECDF.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMENIN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.Cormn111.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNCATS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNDIV.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEJB.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEJE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNEMP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNESTRUCT2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNPAR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNREG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNREN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMNUNI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORMONE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORPARREP.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORPROE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRANG2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORREGFI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORREPCR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPACL.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPANG.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCE2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCEJ.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPCGR.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDA1.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDAT.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDE1.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPDEJ.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPEM2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPEMA.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORRPGR2.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGBAN.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGCUS.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGGRU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGPRE.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORSGUSU.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.CORTRAMO.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.EmpAsig.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAccCyRep.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAcceso.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAccesoBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAltaMasivaTH.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAltasMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmArchivosPendientes.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAutAltasMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmAutLimUso.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCambiosMasivos.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancAutoriz.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancLog.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCancMaker.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCliBancanet.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmConsultaMasivas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmCtasNvas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEjecutivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEmpNvas.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmEnvioLimCred.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmGeneraCargaIni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmIntBusqueda.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmIntInicio.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmLogin.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmLoginS53.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelTH.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelTrans.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmNivelUnidad.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvEjecutivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvioEmp.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmReenvios.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.FrmRptCambioMasivo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSBFEmpresa.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_SBF_tarjetahab.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSeguridad.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_categorias.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_CCFSeleccion.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_cons_tarj_uni.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_error_envio.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_men_cat.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_men_rep.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_reportes.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frmSBFtransacciones.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_Tran_Cat.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.frm_unidades.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.MCC.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.MTCBRCCI.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.RangosCats.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.FrmTuxedo.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.Properties.Resources.resources
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\TCc430.csproj.GenerateResource.Cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe.licenses
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.TrustInfo.xml
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe.manifest
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.application
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.exe
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfc430\obj\Debug\D430_NET.pdb
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfd430\bin\D430_NET.exe.config
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfd430\obj\Debug\TCc430.csproj.ResolveComReference.cache
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfd430\obj\Debug\D430_NET.exe
+C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\proy Ejecutiva1\Act_Ejecutiva\FUENTE_DEBITO_SYB15patch\Debito.NET\ccfd430\obj\Debug\D430_NET.pdb

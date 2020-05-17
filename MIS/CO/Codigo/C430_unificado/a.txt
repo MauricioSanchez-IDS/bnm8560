@@ -1,0 +1,33 @@
+ El volumen de la unidad C es LACMX95EDE35089
+ El n£mero de serie del volumen es: 0C7F-0D01
+
+ Directorio de C:\C430_unificado\Corporativa\dlls
+
+08/11/2017  04:37 p.m.             8,704 N_ActualizaS111.dll
+08/11/2017  04:37 p.m.            19,968 N_ActualizaS111.pdb
+08/11/2017  04:37 p.m.            32,768 N_TransS111.dll
+08/11/2017  04:37 p.m.            85,504 N_TransS111.pdb
+               4 archivos        146,944 bytes
+               0 dirs  353,454,002,176 bytes libres
+ El volumen de la unidad C es LACMX95EDE35089
+ El n£mero de serie del volumen es: 0C7F-0D01
+
+ Directorio de C:\C430_unificado\Ejecutiva\dlls
+
+14/11/2017  07:29 p.m.             8,704 N_ActualizaS111.dll
+14/11/2017  07:29 p.m.            22,016 N_ActualizaS111.pdb
+14/11/2017  07:29 p.m.            32,768 N_TransS111.dll
+14/11/2017  07:29 p.m.            85,504 N_TransS111.pdb
+               4 archivos        148,992 bytes
+               0 dirs  353,453,998,080 bytes libres
+ El volumen de la unidad C es LACMX95EDE35089
+ El n£mero de serie del volumen es: 0C7F-0D01
+
+ Directorio de C:\C430_unificado\DllsUnificadas
+
+21/11/2017  05:22 p.m.             8,704 N_ActualizaS111.dll
+21/11/2017  05:22 p.m.            22,016 N_ActualizaS111.pdb
+21/11/2017  05:22 p.m.            32,768 N_TransS111.dll
+21/11/2017  05:22 p.m.            85,504 N_TransS111.pdb
+               4 archivos        148,992 bytes
+               0 dirs  353,453,989,888 bytes libres
