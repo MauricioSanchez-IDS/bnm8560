@@ -1,3 +1,0 @@
-sp_IntegracionFase2_ATD DATD0616
-go
-EOF

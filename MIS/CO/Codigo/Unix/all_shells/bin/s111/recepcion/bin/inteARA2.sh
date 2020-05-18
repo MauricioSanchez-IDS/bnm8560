@@ -1,3 +1,0 @@
-sp_IntegracionFase2_ARA EARA1009
-go
-EOF

@@ -1,7 +1,0 @@
-C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\x64\Debug\AxGearLib.dll
-C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\x64\Debug\AxGearLib.pdb
-C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\x64\Debug\Interop.GEARLib.dll
-C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\bin\x64\Debug\Interop.StdType.dll
-C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\obj\x64\Debug\AxGearLib.csprojResolveAssemblyReference.cache
-C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\obj\x64\Debug\AxGearLib.dll
-C:\Migracion a Windows 7\FTES CORP Y EJEC V_25_03\C430_CORPORATIVA1\AxGearLib\obj\x64\Debug\AxGearLib.pdb

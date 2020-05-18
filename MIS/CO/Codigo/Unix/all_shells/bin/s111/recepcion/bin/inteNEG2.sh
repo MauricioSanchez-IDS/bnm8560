@@ -1,3 +1,0 @@
-sp_IntegracionFase2_NEG ENEG1009
-go
-EOF

@@ -1,3 +1,0 @@
-F S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
-0 S sybase    2622  2621  0  80   0 - 347829 futex_ May25 ?       03:46:25 /optware/sybase/ase157sp104/ASE-15_0/bin/dataserver -d/optware/sybase/ase157sp104/data/masterdev.dat -e/optware/sybase/ase157sp104/ASE-15_0/install/errorlog_SYB_C430 -c/optware/sybase/ase157sp104/ASE-15_0/SYB_C430.cfg -M/optware/sybase/ase157sp104/ASE-15_0 -sSYB_C430
-0 S sybase    2594  2593  0  80   0 -  5875 poll_s May25 ?        00:00:00 /optware/sybase/ase157sp104/ASE-15_0/bin/backupserver -e/optware/sybase/ase157sp104/ASE-15_0/install/errorlog_SYB_BACKUP_SYB_C430 -N25 -C20 -m60 -M/optware/sybase/ase157sp104/ASE-15_0/bin/sybmultbuf -SSYB_BACKUP_SYB_C430

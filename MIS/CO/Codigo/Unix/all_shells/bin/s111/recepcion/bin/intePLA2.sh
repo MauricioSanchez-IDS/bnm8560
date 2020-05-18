@@ -1,3 +1,0 @@
-sp_IntegracionFase2_PLA EPLA0114
-go
-EOF

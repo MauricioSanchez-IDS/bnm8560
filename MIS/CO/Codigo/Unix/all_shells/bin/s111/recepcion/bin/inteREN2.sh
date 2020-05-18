@@ -1,3 +1,0 @@
-sp_IntegracionFase2_REN EREN0128
-go
-EOF
