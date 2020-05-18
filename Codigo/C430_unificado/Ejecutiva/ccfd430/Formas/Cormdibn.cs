@@ -14,7 +14,7 @@ using System.Configuration;
 using VB6 = Microsoft.VisualBasic.Compatibility.VB6.Support;
 using SAPUFENLACELib;
 
-//Pueba GitHub
+//Pueba GitHub Mau
 namespace TCd430
 {
     internal partial class CORMDIBN
