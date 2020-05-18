@@ -14,7 +14,7 @@ using System.Configuration;
 using VB6 = Microsoft.VisualBasic.Compatibility.VB6.Support;
 using SAPUFENLACELib;
 
-
+//Pueba GitHub
 namespace TCd430
 {
     internal partial class CORMDIBN
@@ -34,13 +34,13 @@ namespace TCd430
         //**                                                                        **
         //**       ---------------------------------------------------------        **
         //**                                                                        **
-        //**       Descripción: Forma MDI que hace la interface del sistema         **
+        //**       DescripciÃ³n: Forma MDI que hace la interface del sistema         **
         //**                    Contiene controles globales, menues, barras de      **
         //**                    barras de estado,
         //**                                                                        **
         //**       Responsable: Felipe Zacarias Jimenez                             **
         //**                                                                        **
-        //**       Ultima Fecha de Modificación: 24/Junio/1994                      **
+        //**       Ultima Fecha de ModificaciÃ³n: 24/Junio/1994                      **
         //**                                                                        **
         //**       NOTA: Esta forma necesita Visual Basic 3.0                       **
         //**                                                                        **
@@ -53,13 +53,13 @@ namespace TCd430
         //Constantes para el Emulador
         const string STR_CAPTION_EMULA = "Captura de Aclaraciones";
         const string STR_CAPTION_CYDD = "Transferencia de Archivos";
-        const string STR_MSG_NOEMULA = "El Emulador no fué encontrado";
-        const string STR_MSG_NOCYDD = "El programa de transferencias CYDD no fué encontrado";
+        const string STR_MSG_NOEMULA = "El Emulador no fuÃ© encontrado";
+        const string STR_MSG_NOCYDD = "El programa de transferencias CYDD no fuÃ© encontrado";
         const string STR_MSG_NOPATHEMU = "La Ruta de Acceso es incorrecta";
         const string STR_MSG_NOMEMEMU = "No existe memoria suficiente para ejecutar el programa";
 
         //Constantes para el reporteador
-        const string STR_MSG_NOREP = "El Reporteador no fué encontrado";
+        const string STR_MSG_NOREP = "El Reporteador no fuÃ© encontrado";
         const string STR_MSG_NOPATHREP = "Ruta de Acceso incorrecta al Reporteador";
         const string STR_MSG_NOMEMREP = "No existe memoria suficiente para ejecutar el Reporteador";
         const string STR_CAPTION_REP = "Reporteador CORPORATIVA";
@@ -100,7 +100,7 @@ namespace TCd430
                             }
                             else
                             {
-                                MessageBox.Show("No se modifico la bitácora", Application.ProductName);
+                                MessageBox.Show("No se modifico la bitÃ¡cora", Application.ProductName);
                             }
                             CORVAR.igblRetorna = VBSQL.SqlCancel(CORVAR.hgblConexion);
                         }
@@ -141,7 +141,7 @@ namespace TCd430
             string pszCadTem = String.Empty;
 
             //----------------------------------------------------------------------------------------
-            //Define los formatos para numéricos, con o sin decimales y alfanuméricos
+            //Define los formatos para numÃ©ricos, con o sin decimales y alfanumÃ©ricos
             for (int iCont = 1; iCont <= pszarrFormatos.GetUpperBound(0); iCont++)
             {
 
@@ -177,21 +177,21 @@ namespace TCd430
             }
 
             //----------------------------------------------------------------------------------------
-            //Por cada renglón de Datos
+            //Por cada renglÃ³n de Datos
             for (int iContRow = 1; iContRow <= sprDatos.MaxRows; iContRow++)
             {
 
                 //Inicializa la cadena a grabar
                 pszCadena = new StringBuilder(CORVB.NULL_STRING);
 
-                //Por cada renglón de datos
+                //Por cada renglÃ³n de datos
                 for (int iContCol = 1; iContCol <= sprDatos.MaxCols; iContCol++)
                 {
 
                     //Posiciona la columna
                     sprDatos.Col = iContCol;
 
-                    //Inicializa el Spread al Primer renglón de Títulos
+                    //Inicializa el Spread al Primer renglÃ³n de TÃ­tulos
                     sprDatos.Row = CORVB.NULL_INTEGER;
 
                     for (int iCont = 1; iCont <= pszarrFormatos.GetUpperBound(0); iCont++)
@@ -201,7 +201,7 @@ namespace TCd430
                         if (sprDatos.Text == pszarrFormatos[iCont].pszCampo)
                         {
 
-                            //Posiciona el renglón a grabar
+                            //Posiciona el renglÃ³n a grabar
                             sprDatos.Row = iContRow;
 
                             //Si es un registro de datos y con datos
@@ -259,13 +259,13 @@ namespace TCd430
             string pszLongTmp = String.Empty;
             string pszCadena = String.Empty;
 
-            //Obtiene el número de campos del Reporte
+            //Obtiene el nÃºmero de campos del Reporte
 
             int iNumCampos = Int32.Parse(mdlParametros.valorRegistro(2, "SOFTWARE\\Banamex\\C430_001\\TarjetaCorporativa\\" +pszTipoRep, "NoCampos").Trim());
             //int iNumCampos = Convert.ToInt32(Conversion.Val(CORPROC2.Obten_Dato_Ini(pszTipoRep, "NoCampos")));
             //int iNumCampos = 14;
 
-            //Inicializa el Spread al Primer renglón de Títulos
+            //Inicializa el Spread al Primer renglÃ³n de TÃ­tulos
             sprDatos.Row = CORVB.NULL_INTEGER;
             string pszDecimal = CORVB.NULL_STRING;
 
@@ -315,7 +315,7 @@ namespace TCd430
                         pszarrFormatos[pszarrFormatos.GetUpperBound(0)].pszLong = pszLong;
                         pszarrFormatos[pszarrFormatos.GetUpperBound(0)].pszDecimal = pszDecimal;
 
-                        //Se sale de la búsqueda en el Spread
+                        //Se sale de la bÃºsqueda en el Spread
                         break;
 
                     }
@@ -441,7 +441,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_ANA, 0] = CORCONST.BIT_CONSULTA;
             CORVAR.iArrBitacora[CORCONST.NIV_ANA, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_ANA, 0] = "CORRANG2";
-            CORVAR.pszArrBitForma[CORCONST.NIV_ANA, 1] = "Análisis de Consumos por Giro";
+            CORVAR.pszArrBitForma[CORCONST.NIV_ANA, 1] = "AnÃ¡lisis de Consumos por Giro";
             CORRANG2.DefInstance.Show();
 
         }
@@ -484,7 +484,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_BAN, 0] = CORCONST.BIT_ARCHIVOS;
             CORVAR.iArrBitacora[CORCONST.NIV_BAN, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_BAN, 0] = "CORCTEJB";
-            CORVAR.pszArrBitForma[CORCONST.NIV_BAN, 1] = "Catálogo de Ejecutivos Banamex";
+            CORVAR.pszArrBitForma[CORCONST.NIV_BAN, 1] = "CatÃ¡logo de Ejecutivos Banamex";
             CORCTEJB.DefInstance.Show();
             this.Cursor = Cursors.Default;
 
@@ -519,7 +519,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_BCO, 0] = CORCONST.BIT_CONFIGURAR;
             CORVAR.iArrBitacora[CORCONST.NIV_BCO, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_BCO, 0] = "CORSGBAN";
-            CORVAR.pszArrBitForma[CORCONST.NIV_BCO, 1] = "Banco de Operación";
+            CORVAR.pszArrBitForma[CORCONST.NIV_BCO, 1] = "Banco de OperaciÃ³n";
             CORSGBAN.DefInstance.Show();
 
         }
@@ -690,7 +690,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_COR, 0] = CORCONST.BIT_ARCHIVOS;
             CORVAR.iArrBitacora[CORCONST.NIV_COR, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_COR, 0] = "CORCTGRU";
-            CORVAR.pszArrBitForma[CORCONST.NIV_COR, 1] = "Catálogo de Grupos";
+            CORVAR.pszArrBitForma[CORCONST.NIV_COR, 1] = "CatÃ¡logo de Grupos";
             CORCTGRU.DefInstance.Show();
             if (CORCTGRU.DefInstance.flag)
                 CORCTGRU.DefInstance.Close();
@@ -729,7 +729,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_DEP, 0] = CORCONST.BIT_INTERFASES;
             CORVAR.iArrBitacora[CORCONST.NIV_DEP, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_DEP, 0] = "CORDEPUR";
-            CORVAR.pszArrBitForma[CORCONST.NIV_DEP, 1] = "Depuración de Procesos";
+            CORVAR.pszArrBitForma[CORCONST.NIV_DEP, 1] = "DepuraciÃ³n de Procesos";
             CORDEPUR.DefInstance.Show();
 
         }
@@ -750,7 +750,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_DIV, 0] = CORCONST.BIT_ARCHIVOS;
             CORVAR.iArrBitacora[CORCONST.NIV_DIV, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_DIV, 0] = "CORCTDIV";
-            CORVAR.pszArrBitForma[CORCONST.NIV_DIV, 1] = "Catálogo de Divisiones";
+            CORVAR.pszArrBitForma[CORCONST.NIV_DIV, 1] = "CatÃ¡logo de Divisiones";
             CORCTDIV.DefInstance.Show();
 
             this.Cursor = Cursors.Default;
@@ -769,7 +769,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_EJE, 0] = CORCONST.BIT_ARCHIVOS;
             CORVAR.iArrBitacora[CORCONST.NIV_EJE, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_EJE, 0] = "CORCTEJE";
-            CORVAR.pszArrBitForma[CORCONST.NIV_EJE, 1] = "Catálogo de Tarjetahabientes";
+            CORVAR.pszArrBitForma[CORCONST.NIV_EJE, 1] = "CatÃ¡logo de Tarjetahabientes";
             CORVAR.glstrLimCred = "empresa";
             CORCTEJE.DefInstance.Show();
             this.Cursor = Cursors.Default;
@@ -782,7 +782,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_EMP, 0] = CORCONST.BIT_ARCHIVOS;
             CORVAR.iArrBitacora[CORCONST.NIV_EMP, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_EMP, 0] = "CORCTEMP";
-            CORVAR.pszArrBitForma[CORCONST.NIV_EMP, 1] = "Catálogo de Empresas";
+            CORVAR.pszArrBitForma[CORCONST.NIV_EMP, 1] = "CatÃ¡logo de Empresas";
             CORCTEMP.DefInstance.Show();
             if (CORCTEMP.DefInstance.flag)
                 CORCTEMP.DefInstance.Close();
@@ -807,7 +807,7 @@ namespace TCd430
         //  iArrBitacora(NIV_ENV, 0) = BIT_INTERFASES
         //  iArrBitacora(NIV_ENV, 1) = iArrBitacora(NIV_ENV, 1) + 1
         //  pszArrBitForma(NIV_ENV, 0) = "CORACENV"
-        //  pszArrBitForma(NIV_ENV, 1) = "Actualización de Envíos"
+        //  pszArrBitForma(NIV_ENV, 1) = "ActualizaciÃ³n de EnvÃ­os"
         //  CORACENV.Show
         //End Sub
 
@@ -825,7 +825,7 @@ namespace TCd430
             //  iArrBitacora(NIV_EXC, 0) = BIT_OPCIONES
             //  iArrBitacora(NIV_EXC, 1) = iArrBitacora(NIV_EXC, 1) + 1
             //  pszArrBitForma(NIV_EXC, 0) = "COREXPEX"
-            //  pszArrBitForma(NIV_EXC, 1) = "Exportación a EXCEL"
+            //  pszArrBitForma(NIV_EXC, 1) = "ExportaciÃ³n a EXCEL"
             CORPROC.Exporta_Excel();
 
         }
@@ -839,7 +839,7 @@ namespace TCd430
             //  iArrBitacora(NIV_FMT, 0) = BIT_OPCIONES
             //  iArrBitacora(NIV_FMT, 1) = iArrBitacora(NIV_TXT, 1) + 1
             //  pszArrBitForma(NIV_FMT, 0) = "COREXPFM"
-            //  pszArrBitForma(NIV_FMT, 1) = "Exportación a Formato Fijo"
+            //  pszArrBitForma(NIV_FMT, 1) = "ExportaciÃ³n a Formato Fijo"
 
             Guarda_Formato();
 
@@ -1053,7 +1053,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GAC, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GAC, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GAC, 0] = "CORGRACL";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GAC, 1] = "Gráfica Aclaraciones";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GAC, 1] = "GrÃ¡fica Aclaraciones";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGRACL.DefInstance.ShowDialog();
 
@@ -1068,7 +1068,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GAN, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GAN, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GAN, 0] = "CORGRANT";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GAN, 1] = "Gráfica Antigüedad de la Cuenta";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GAN, 1] = "GrÃ¡fica AntigÃ¼edad de la Cuenta";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGRANT.DefInstance.ShowDialog();
 
@@ -1083,7 +1083,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GBI, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GBI, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GBI, 0] = "CORGRBIT";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GBI, 1] = "Gráfica de Bitácora";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GBI, 1] = "GrÃ¡fica de BitÃ¡cora";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGRBIT.DefInstance.ShowDialog();
             if (CORGRBIT.DefInstance.flag)
@@ -1100,7 +1100,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GCO, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GCO, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GCO, 0] = "CORGRCOM";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GCO, 1] = "Gráfica Comparativos";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GCO, 1] = "GrÃ¡fica Comparativos";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGRCOM.DefInstance.ShowDialog();
 
@@ -1115,7 +1115,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GCO, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GCO, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GCO, 0] = "CORGRCOR";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GCO, 1] = "Gráfica Corporativa";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GCO, 1] = "GrÃ¡fica Corporativa";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGRCOR.DefInstance.ShowDialog();
             if (CORGRCOR.DefInstance.flag)
@@ -1132,7 +1132,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GCR, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GCR, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GCR, 0] = "CORGRCRE";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GCR, 1] = "Gráfica Créditos";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GCR, 1] = "GrÃ¡fica CrÃ©ditos";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGRCRE.DefInstance.ShowDialog();
 
@@ -1147,7 +1147,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GEM, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GEM, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GEM, 0] = "CORGREMP";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GEM, 1] = "Gráfica de Empresas";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GEM, 1] = "GrÃ¡fica de Empresas";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGREMP.DefInstance.ShowDialog();
 
@@ -1199,7 +1199,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GSI, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GSI, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GSI, 0] = "CORGRSIT";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GSI, 1] = "Gráfica de Sit. de la Cuenta";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GSI, 1] = "GrÃ¡fica de Sit. de la Cuenta";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGRSIT.DefInstance.ShowDialog();
 
@@ -1214,7 +1214,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_GVE, 0] = CORCONST.BIT_GRAFICAS;
             CORVAR.iArrBitacora[CORCONST.NIV_GVE, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_GVE, 0] = "CORGRVEN";
-            CORVAR.pszArrBitForma[CORCONST.NIV_GVE, 1] = "Gráfica de Vencidos";
+            CORVAR.pszArrBitForma[CORCONST.NIV_GVE, 1] = "GrÃ¡fica de Vencidos";
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORGRVEN.DefInstance.ShowDialog();
 
@@ -1230,7 +1230,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_HIS, 0] = CORCONST.BIT_ACLARACIONES;
             CORVAR.iArrBitacora[CORCONST.NIV_HIS, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_HIS, 0] = "CORCTACL";
-            CORVAR.pszArrBitForma[CORCONST.NIV_HIS, 1] = "Catálogo de Aclaraciones";
+            CORVAR.pszArrBitForma[CORCONST.NIV_HIS, 1] = "CatÃ¡logo de Aclaraciones";
             CORCTACL.DefInstance.Show();
             if (CORCTACL.DefInstance.flag)
             {
@@ -1247,7 +1247,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_IMP, 0] = CORCONST.BIT_OPCIONES;
             CORVAR.iArrBitacora[CORCONST.NIV_IMP, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_IMP, 0] = "CORIMPRE";
-            CORVAR.pszArrBitForma[CORCONST.NIV_IMP, 1] = "Impresión de Reportes";
+            CORVAR.pszArrBitForma[CORCONST.NIV_IMP, 1] = "ImpresiÃ³n de Reportes";
             CORPROC.Imprime_Reporte();
 
             this.Cursor = Cursors.Default;
@@ -1275,7 +1275,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_INT, 0] = CORCONST.BIT_INTERFASES;
             CORVAR.iArrBitacora[CORCONST.NIV_INT, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_INT, 0] = "CORMENIN";
-            CORVAR.pszArrBitForma[CORCONST.NIV_INT, 1] = "Estatus de Integración";
+            CORVAR.pszArrBitForma[CORCONST.NIV_INT, 1] = "Estatus de IntegraciÃ³n";
             CORMENIN.DefInstance.Tag = CORVB.NULL_STRING;
             //CORMENIN.DefInstance.ShowDialog(this);
             CORMENIN.DefInstance.Close();
@@ -1292,7 +1292,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_LIM, 0] = CORCONST.BIT_CONFIGURAR;
             CORVAR.iArrBitacora[CORCONST.NIV_LIM, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_LIM, 0] = "CORLIMCR";
-            CORVAR.pszArrBitForma[CORCONST.NIV_LIM, 1] = "Límites de Crédito";
+            CORVAR.pszArrBitForma[CORCONST.NIV_LIM, 1] = "LÃ­mites de CrÃ©dito";
             //AIS-1199 NGONZALEZ
             //VB6.ShowForm(CORLIMCR.DefInstance, (int) CORVB.MODAL, this);
             CORLIMCR.DefInstance.ShowDialog(this);
@@ -1306,7 +1306,7 @@ namespace TCd430
             //  iArrBitacora(NIV_EMP, 0) = BIT_ARCHIVOS
             //  iArrBitacora(NIV_EMP, 1) = iArrBitacora(NIV_EMP, 1) + 1
             //  pszArrBitForma(NIV_EMP, 0) = "CORCTEMP"
-            //  pszArrBitForma(NIV_EMP, 1) = "Catálogo de Empresas"
+            //  pszArrBitForma(NIV_EMP, 1) = "CatÃ¡logo de Empresas"
             frmBancanet.DefInstance.Show();
             this.Cursor = Cursors.Default;
         }
@@ -1334,7 +1334,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_PAR, 0] = CORCONST.BIT_CONFIGURAR;
             CORVAR.iArrBitacora[CORCONST.NIV_PAR, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_PAR, 0] = "CORMNPAR";
-            CORVAR.pszArrBitForma[CORCONST.NIV_PAR, 1] = "Parámetros Generales";
+            CORVAR.pszArrBitForma[CORCONST.NIV_PAR, 1] = "ParÃ¡metros Generales";
             //  CORCTPGS.Show
             CORMNPAR.DefInstance.Show();
             this.Cursor = Cursors.Default;
@@ -1359,7 +1359,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_REG, 0] = CORCONST.BIT_ARCHIVOS;
             CORVAR.iArrBitacora[CORCONST.NIV_REG, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_REG, 0] = "CORCTREG";
-            CORVAR.pszArrBitForma[CORCONST.NIV_REG, 1] = "Catálogo de Regiones";
+            CORVAR.pszArrBitForma[CORCONST.NIV_REG, 1] = "CatÃ¡logo de Regiones";
 
             CORCTREG.DefInstance.Show();
             this.Cursor = Cursors.Default;
@@ -1424,7 +1424,7 @@ namespace TCd430
             CORVAR.iArrBitacora[CORCONST.NIV_TRR, 0] = CORCONST.BIT_CONFIGURAR;
             CORVAR.iArrBitacora[CORCONST.NIV_TRR, 1]++;
             CORVAR.pszArrBitForma[CORCONST.NIV_TRR, 0] = "CORTRAMO";
-            CORVAR.pszArrBitForma[CORCONST.NIV_TRR, 1] = "Transmisión de Reportes.";
+            CORVAR.pszArrBitForma[CORCONST.NIV_TRR, 1] = "TransmisiÃ³n de Reportes.";
 
             //UPGRADE_WARNING: (7009) Multiples invocations to ShowDialog in Forms with ActiveX Controls might throw runtime exceptions
             CORTRAMO.DefInstance.ShowDialog();
@@ -1440,7 +1440,7 @@ namespace TCd430
             //  iArrBitacora(NIV_TXT, 0) = BIT_OPCIONES
             //  iArrBitacora(NIV_TXT, 1) = iArrBitacora(NIV_TXT, 1) + 1
             //  pszArrBitForma(NIV_TXT, 0) = "COREXPTX"
-            //  pszArrBitForma(NIV_TXT, 1) = "Exportación a Texto"
+            //  pszArrBitForma(NIV_TXT, 1) = "ExportaciÃ³n a Texto"
             CORPROC.Guarda_Texto();
 
             this.Cursor = Cursors.Default;
@@ -1582,7 +1582,7 @@ namespace TCd430
             CORVAR.iArrBitacora = new int[CORCONST.MAX_NIVELES + 1, 2];
             CORVAR.pszArrBitForma = ArraysHelper.InitializeArray<string[,]>(new int[] { CORCONST.MAX_NIVELES + 1, 2 }, new int[] { 0, 0 });
 
-            //Arma las variables de Conexión
+            //Arma las variables de ConexiÃ³n
             //CORDBLIB.gsServidor = mdlParametros.fncReadIniS("Corporativa", "Servidor");
             //CORDBLIB.gsBaseDatos = mdlParametros.fncReadIniS("Corporativa", "BaseDatos");
             //CORDBLIB.gsPuerto = mdlParametros.fncReadIniS("Corporativa", "Puerto");
@@ -1597,7 +1597,7 @@ namespace TCd430
             //    gsUsuario = fncReadIniS("Corporativa", "User")
             //    gsPassword = fncReadIniS("Corporativa", "Password")
 
-            //Arma las variables de Conexión
+            //Arma las variables de ConexiÃ³n
             //mgc
             //gsUsuario = "c430_dbo"
             //gsUsuario = "c430"
@@ -1614,7 +1614,7 @@ namespace TCd430
             //AplOrigenSAPUF = C430_001
             //ModoRefrSAPUF = 0
             //TimerSAPUF = 9999
-            //INICIA BLOQUE PARA OBTENER password a través de SAPU
+            //INICIA BLOQUE PARA OBTENER password a travÃ©s de SAPU
             //string UsuarioSAPUF = mdlParametros.fncReadIniS("Corporativa", "UsuarioSAPUF").Trim();
             //string ServidorSAPUF = mdlParametros.fncReadIniS("Corporativa", "ServidorSAPUF").Trim();
             //int OperacionSAPUF = StringsHelper.IntValue(mdlParametros.fncReadIniS("Corporativa", "OperacionSAPUF").Trim());
@@ -1655,7 +1655,7 @@ namespace TCd430
                     //mdlParametros.igTimeComDrive = Int32.Parse(mdlParametros.fncReadIniS("Corporativa", "Tiempo"));
                     mdlParametros.igTimeComDrive = Int32.Parse(mdlParametros.valorRegistro(2, "SOFTWARE\\Banamex\\C430_001\\TarjetaCorporativa\\Comdrv", "comdrvTime"));
 
-                    //Realiza la conexión al servidor configurado
+                    //Realiza la conexiÃ³n al servidor configurado
                     if (CORDBLIB.Conexion_Servidor() == VBSQL.FAIL)
                     {
                         ModoRefrSAPUF = 1; //primera sol en modo refresco
@@ -1697,13 +1697,13 @@ namespace TCd430
 
                                             if (CORDBLIB.Conexion_Servidor() == VBSQL.FAIL)
                                             {
-                                                CORDBLIB.gsMsg = "DESINCRONIZACIÓN CON SAPUF";
+                                                CORDBLIB.gsMsg = "DESINCRONIZACIÃ“N CON SAPUF";
                                                 //UPGRADE_WARNING: (6021) Casting 'int' to Enum may cause different behaviour.
                                                 //UPGRADE_WARNING: (1046) MsgBox Parameter 'context' is not supported, and was removed.
                                                 //UPGRADE_WARNING: (1046) MsgBox Parameter 'helpfile' is not supported, and was removed.
                                                 Interaction.MsgBox(CORDBLIB.gsMsg, (MsgBoxStyle)(((int)CORVB.MB_ICONSTOP) + ((int)CORVB.MB_OK)), CORSTR.STR_APP_TIT);
                                                 this.Cursor = Cursors.Default;
-                                                ModoRefrSAPUF = 3; //se notifica a SAPUF que existe desincronización
+                                                ModoRefrSAPUF = 3; //se notifica a SAPUF que existe desincronizaciÃ³n
                                                 Tipo_problema = "01";
                                                 Codigo_error = "01";
                                                 cve_operacion = Tipo_problema + Codigo_error;
@@ -1713,7 +1713,7 @@ namespace TCd430
                                                 UsuDestinoSAPUF, TipoDestSAPUF, AplDestinoSAPUF, AplOrigenSAPUF, ModoRefrSAPUF.ToString(), TimerSAPUF.ToString());
                                                 if (resultado != 0)
                                                 {
-                                                    CORDBLIB.gsMsg = "NO SE PUDO REALIZAR EL ANUNCIO DE DESINCRONIZACIÓN CON SAPUF";
+                                                    CORDBLIB.gsMsg = "NO SE PUDO REALIZAR EL ANUNCIO DE DESINCRONIZACIÃ“N CON SAPUF";
                                                     //UPGRADE_WARNING: (6021) Casting 'int' to Enum may cause different behaviour.
                                                     //UPGRADE_WARNING: (1046) MsgBox Parameter 'context' is not supported, and was removed.
                                                     //UPGRADE_WARNING: (1046) MsgBox Parameter 'helpfile' is not supported, and was removed.
@@ -1732,11 +1732,11 @@ namespace TCd430
                                     }
                                     else
                                     {
-                                        MessageBox.Show("Error de SAPUF con segundo regreso (Atributo=2)" + Conversion.Str(resultado), "Error en Operación", MessageBoxButtons.OK, MessageBoxIcon.Error); //FSWB NR 20070315
+                                        MessageBox.Show("Error de SAPUF con segundo regreso (Atributo=2)" + Conversion.Str(resultado), "Error en OperaciÃ³n", MessageBoxButtons.OK, MessageBoxIcon.Error); //FSWB NR 20070315
                                         this.Cursor = Cursors.Default;
                                         Environment.Exit(0);
                                     } //fin del resultado=0 del pwd solicitado con atributo =2
-                                } //fin de la segunda conexión solicitada con Atributo=1
+                                } //fin de la segunda conexiÃ³n solicitada con Atributo=1
                             }
                             else
                             {
@@ -1746,11 +1746,11 @@ namespace TCd430
                         }
                         else
                         {
-                            MessageBox.Show("Error de SAPUF con primer refresco (Atributo=1) " + Conversion.Str(resultado), "Error en Operación", MessageBoxButtons.OK, MessageBoxIcon.Error); //FSWB NR 20070315
+                            MessageBox.Show("Error de SAPUF con primer refresco (Atributo=1) " + Conversion.Str(resultado), "Error en OperaciÃ³n", MessageBoxButtons.OK, MessageBoxIcon.Error); //FSWB NR 20070315
                             this.Cursor = Cursors.Default;
                             Environment.Exit(0);
-                        } //fin del if resultado =0 del envío con 1
-                    } //fin de la primera conexión
+                        } //fin del if resultado =0 del envÃ­o con 1
+                    } //fin de la primera conexiÃ³n
                 }
                 else
                 {
@@ -1760,7 +1760,7 @@ namespace TCd430
             }
             else
             {
-                MessageBox.Show("Error de SAPUF " + Conversion.Str(resultado), "Error en Operación", MessageBoxButtons.OK, MessageBoxIcon.Error); //FSWB NR 20070315
+                MessageBox.Show("Error de SAPUF " + Conversion.Str(resultado), "Error en OperaciÃ³n", MessageBoxButtons.OK, MessageBoxIcon.Error); //FSWB NR 20070315
                 this.Cursor = Cursors.Default;
                 Environment.Exit(0);
             }
@@ -1783,7 +1783,7 @@ namespace TCd430
 
             if (Formato.ifncConexionFormato() == VBSQL.FAIL)
             {
-                CORDBLIB.gsMsg = "La conexión a la Base de Datos no es válida. Consulte al Administrador del Sistema.";
+                CORDBLIB.gsMsg = "La conexiÃ³n a la Base de Datos no es vÃ¡lida. Consulte al Administrador del Sistema.";
                 //UPGRADE_WARNING: (6021) Casting 'int' to Enum may cause different behaviour.
                 //UPGRADE_WARNING: (1046) MsgBox Parameter 'context' is not supported, and was removed.
                 //UPGRADE_WARNING: (1046) MsgBox Parameter 'helpfile' is not supported, and was removed.
@@ -1798,8 +1798,8 @@ namespace TCd430
             sspPanel[1].Caption = new String(chrArray);
             CRSGeneral.prCargaEstados();
             this.Cursor = Cursors.Default;
-            /*SE EMPATA CON LA VERSIÓN DE PRODUCCIÓN 14/01/10*/
-            // Creación del C430.Log de forma Temporal
+            /*SE EMPATA CON LA VERSIÃ“N DE PRODUCCIÃ“N 14/01/10*/
+            // CreaciÃ³n del C430.Log de forma Temporal
             string filepath;
             string sFecha = DateTime.Today.ToString("ddMMyy");
             //String DirExe = Path.GetDirectoryName(Application.ExecutablePath);
@@ -1844,7 +1844,7 @@ namespace TCd430
                 //UPGRADE_WARNING: (6021) Casting 'int' to Enum may cause different behaviour.
                 //UPGRADE_WARNING: (1046) MsgBox Parameter 'context' is not supported, and was removed.
                 //UPGRADE_WARNING: (1046) MsgBox Parameter 'helpfile' is not supported, and was removed.
-                int iResp = (int)Interaction.MsgBox("¿Salir de la Aplicación... ?", (MsgBoxStyle)(CORVB.MB_ICONQUESTION + CORVB.MB_YESNO), CORSTR.STR_APP_TIT);
+                int iResp = (int)Interaction.MsgBox("Â¿Salir de la AplicaciÃ³n... ?", (MsgBoxStyle)(CORVB.MB_ICONQUESTION + CORVB.MB_YESNO), CORSTR.STR_APP_TIT);
                 
                 if (iResp == CORVB.IDYES)
                 {
@@ -1871,7 +1871,7 @@ namespace TCd430
                             //UPGRADE_WARNING: (6021) Casting 'int' to Enum may cause different behaviour.
                             //UPGRADE_WARNING: (1046) MsgBox Parameter 'context' is not supported, and was removed.
                             //UPGRADE_WARNING: (1046) MsgBox Parameter 'helpfile' is not supported, and was removed.
-                            iResp = (int)Interaction.MsgBox("¿Cerrar tambien el Reporteador ?...", (MsgBoxStyle)(CORVB.MB_ICONQUESTION + CORVB.MB_YESNO), CORSTR.STR_APP_TIT);
+                            iResp = (int)Interaction.MsgBox("Â¿Cerrar tambien el Reporteador ?...", (MsgBoxStyle)(CORVB.MB_ICONQUESTION + CORVB.MB_YESNO), CORSTR.STR_APP_TIT);
                             if (iResp == CORVB.IDYES)
                             {
                                 Information.Err().Number = CORCONST.OK;
@@ -1930,7 +1930,7 @@ namespace TCd430
             VBSQL.SqlExit();
             VBSQL.SqlWinExit();
             this.Cursor = Cursors.Default;
-            //Cierra la Aplicación
+            //Cierra la AplicaciÃ³n
             Environment.Exit(0);
 
             GC.Collect();
@@ -2151,8 +2151,8 @@ namespace TCd430
                         strfile = mdlParametros.sgPathFirmas + "RepEmpNvas" + DateTime.Today.ToString("yyyyMMdd") + ".txt";
                         //pszgblPathRepCrystal
                         FileSystem.FileOpen(intFile, strfile, OpenMode.Output, OpenAccess.Default, OpenShare.Default, -1);
-                        StrCadena = new StringBuilder("Núm Emp Nombre                                        Fecha Venc.           Crédito Asignado");
-                        StrCadena.Append("  Crédito Acumulado  Día Corte");
+                        StrCadena = new StringBuilder("NÃºm Emp Nombre                                        Fecha Venc.           CrÃ©dito Asignado");
+                        StrCadena.Append("  CrÃ©dito Acumulado  DÃ­a Corte");
                         FileSystem.PrintLine(intFile, StrCadena.ToString());
 
                         while (!adorst.EOF)
@@ -2292,14 +2292,14 @@ namespace TCd430
 
                     if (ilEstatus != 0)
                     {
-                        MessageBox.Show("Se ha presentado el siguiente error en la generación del archivo " + slNomArch + " : " + slMensaje, AssemblyHelper.GetTitle(System.Reflection.Assembly.GetExecutingAssembly()), MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("Se ha presentado el siguiente error en la generaciÃ³n del archivo " + slNomArch + " : " + slMensaje, AssemblyHelper.GetTitle(System.Reflection.Assembly.GetExecutingAssembly()), MessageBoxButtons.OK, MessageBoxIcon.Information);
                         blbandera = false;
                         return;
                     }
                 }
                 else
                 {
-                    MessageBox.Show("No existen datos con la información solicitada ", AssemblyHelper.GetTitle(System.Reflection.Assembly.GetExecutingAssembly()), MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("No existen datos con la informaciÃ³n solicitada ", AssemblyHelper.GetTitle(System.Reflection.Assembly.GetExecutingAssembly()), MessageBoxButtons.OK, MessageBoxIcon.Information);
                     blbandera = true;
                     return;
                 }
